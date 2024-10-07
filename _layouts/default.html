@@ -1,0 +1,55 @@
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    <link rel="icon"  type="image/png" href="/assets/images/solid.png">
+    
+    <!-- SEO Meta Tags -->
+    <!-- <meta name="description" content="A website about Luiz Guilherme Kasputis Zanini's work and research in computer vision and engineering.">
+    <meta name="keywords" content="Luiz Guilherme Zanini, Luiz Guilherme Kasputis Zanini, Computer Vision, Researcher, Engineering">
+    <meta name="author" content="Luiz Guilherme Kasputis Zanini">
+    <meta name="google-site-verification" content="RNgAn5WI50b-NxW7x1Wh71FLOx0QXdVbqkzUTopU_xM" /> -->
+
+    <meta name="description" content="A website about Gabriel Kenji G. Shimanuki">
+    <meta name="keywords" content="Gabriel Kenji, Gabriel Shimanuki, Machine Learning, Researcher, Engineering">
+    <meta name="author" content="Gabriel Kenji Godoy Shimanuki">
+    <!-- <meta name="google-site-verification" content="RNgAn5WI50b-NxW7x1Wh71FLOx0QXdVbqkzUTopU_xM" /> -->
+    
+    <!-- Include other head elements -->
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
+      {{ content }}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

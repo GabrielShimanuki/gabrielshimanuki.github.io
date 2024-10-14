@@ -7,7 +7,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
   - title: "CV"
-    url: /assets/pdf/resume.pdf
+    # url: /assets/pdf/resume.pdf
+    url: /assets/pdf/one-page-CV-oct-24.pdf
   
     
   # - title: "Sample Collections"

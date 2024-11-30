@@ -11,7 +11,7 @@ main:
     url: /assets/pdf/one-page-CV-oct-24.pdf
 
   - title: "Working Papers"
-    url: /working-papers/
+    url: /_pages/working-papers/
     external: false
 
   

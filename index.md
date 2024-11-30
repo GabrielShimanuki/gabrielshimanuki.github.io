@@ -66,7 +66,7 @@ a[href="/feed.xml"] {
 
 <div class="justify-text">
   <!-- <p>Hi, my name is Gabriel Shimanuki, but everyone calls me Luiz. I'm really passionate about applied computing, especially in computer vision, which has been my research focus for the past few years.</p> -->
-  <p>Hi, my name is Gabriel Shimanuki.</p>
+  <p>Hello, my name is Gabriel Shimanuki.</p>
 </div>
 
 ## Studies

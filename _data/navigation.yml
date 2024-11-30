@@ -9,6 +9,11 @@ main:
   - title: "CV"
     # url: /assets/pdf/resume.pdf
     url: /assets/pdf/one-page-CV-oct-24.pdf
+
+  - title: "Working Papers"
+    url: /working-papers/
+    external: false
+
   
     
   # - title: "Sample Collections"

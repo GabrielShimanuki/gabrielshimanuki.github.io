@@ -11,6 +11,10 @@
     </div>
   {% endif %}
 
+  <h3 class="author__name p-name" itemprop="name">
+    <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
+  </h3>
+
   <!-- <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
@@ -246,11 +250,12 @@
 
 
   <div class="author__content">
-    <h3 class="author__name p-name" itemprop="name">
+    <!-- <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
-    </h3>
+    </h3> -->
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
+        <h4 class="bibliography-title">Bibliography</h4>  <!-- Add Bibliography title here -->
         {{ author.bio | markdownify }}
       </div>
     {% endif %}

@@ -8,7 +8,8 @@ main:
   #   url: /projects/
   - title: "CV"
     # url: /assets/pdf/resume.pdf
-    url: /assets/pdf/one-page-CV-oct-24.pdf
+    # url: /assets/pdf/one-page-CV-oct-24.pdf
+    url: /assets/pdf/SHIMANUKI_CV_DEZ_24.pdf
 
   - title: "Working Papers"
     url: /_pages/working-papers/

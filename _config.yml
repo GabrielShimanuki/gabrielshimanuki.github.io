@@ -51,26 +51,6 @@ social:
 analytics:
   provider               : false 
 
-# Site Author
-author:
-  name             : "Gabriel Kenji G. Shimanuki"
-  avatar           : "/assets/images/GS_profile_crop_2023.JPEG"
-  bio              : "Researcher in Computer Engineering focusing on machine learning applied to autonomous vehicles safety - <strong>[USP](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki@usp.br"
-  location         : "São Paulo, Brazil"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/gabriel-kenji/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/GabrielShimanuki"
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-graduation-cap"
-    #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5412-8910"
-
 # Site Footer
 footer:
   links:
@@ -86,6 +66,44 @@ footer:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-5412-8910"
+
+
+# Site Author
+author:
+  name             : "Gabriel Kenji G. Shimanuki"
+  avatar           : "/assets/images/GS_profile_crop_2023.JPEG"
+  # bio              : "Researcher in Computer Engineering focusing on machine learning applied to autonomous vehicles safety - <strong>[USP](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
+  bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki@usp.br"
+  location         : "São Paulo, Brazil"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/gabriel-kenji/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/GabrielShimanuki"
+    # - label: "Google Scholar"
+    #   icon: "fas fa-fw fa-graduation-cap"
+    #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-5412-8910"
+
+# # Site Footer
+# footer:
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin-in"
+#       url: "https://www.linkedin.com/in/gabriel-kenji/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/GabrielShimanuki"
+#     # - label: "Google Scholar"
+#     #   icon: "fas fa-fw fa-graduation-cap"
+#     #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
+#     - label: "ORCID"
+#       icon: "fab fa-fw fa-orcid"
+#       url: "https://orcid.org/0000-0002-5412-8910"
 
 # Reading Files
 include:

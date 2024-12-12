@@ -98,8 +98,44 @@ a[href="/feed.xml"] {
   <ul>
 
     <li>
+    <u><em>Shimanuki, G.</u></em> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
+    </li>
+
+    <li>
     Nascimento, A., <u><em>Shimanuki, G.</em></u>, & Dias, L. (2024, July). <strong>Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> <a href="https://doi.org/10.3390/app14114880" target="_blank"> https://doi.org/10.3390/app14114880</a>
     </li>
+
+    <li>
+    <u><em>Shimanuki, G.</u></em>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
+    </li>
+
+    <li>
+    <u><em>Shimanuki, G.</em></u> (2023). <strong>Increasing the Reliability of Autonomous Vehicle Controls Through the Creation of more Robust Traffic Datasets.</strong> Monograph for Senior Thesis Project – B.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
+    </li>
+
+    <li>
+    Nascimento, A., Queiroz, A., & <u><em>Shimanuki, G.</em></u> (2023, August). <strong>An Enhanced Artificial Neural Network Approach to Predict Student Dropout From Imbalanced Datasets.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2023/15/" target="_blank">ISLA 2023 Proceedings</a>.
+    </li>
+
+    <li>
+    Nascimento, A., Garcia, W., Garcia, A., Queiroz, A., Garcia, E., Bandeira, F., <u><em>Shimanuki, G.</em></u>, & Satin, L. (2023). <strong>Set of Mock Exams for the ENEM (Brazilian National High School Exam)</strong>, 1st edition. Editora Foco. ISBN: 978-6-55515-820-5.
+    </li>
+
+    <li>
+    <u><em>Shimanuki, G.</em></u> (2022, October). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lateral Control Algorithm for Lane Change in Autonomous Vehicles.</strong> 30th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    </li>
+
+    <li>
+    <u><em>Shimanuki, G.</em></u> (2021, November). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lane Crossing Control Algorithm for Autonomous Vehicles.</strong> 29th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    </li>
+
+    <li>
+    <u><em>Shimanuki, G.</em></u> (2020, October). <strong>Influence of the Safety Zone on Accident Risk with Autonomous Vehicles.</strong> 28th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    </li>
+
+    <!-- <li>
+
+    </li> -->
     
     <!-- <li>
       <strong>Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</strong>

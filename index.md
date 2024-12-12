@@ -149,7 +149,7 @@ a[href="/feed.xml"] {
       <strong>2 A.M. Consulting Research Grant</strong>
     </li>
     <li>
-      <strong>Scientific Scholarship Program</strong> - Scientific Scholarship Program - National Council for Scientific and Technological Development
+      <strong>Scientific Scholarship Program</strong> - National Council for Scientific and Technological Development
     </li>
     <li>
       <strong>Foundation for Engineering Research and Development Research Grant</strong>

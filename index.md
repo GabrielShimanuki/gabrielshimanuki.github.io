@@ -106,7 +106,7 @@ a[href="/feed.xml"] {
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</u></em>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
+    <u><em>Shimanuki, G.</em></u>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
     </li>
 
     <li>
@@ -133,39 +133,27 @@ a[href="/feed.xml"] {
     <u><em>Shimanuki, G.</em></u> (2020, October). <strong>Influence of the Safety Zone on Accident Risk with Autonomous Vehicles.</strong> 28th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
     </li>
 
-    <!-- <li>
+  </ul>
+</div>
 
-    </li> -->
-    
-    <!-- <li>
-      <strong>Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</strong>
-      <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:#800017;">Submitted to a journal, currently under review.</em>
-    </li> -->
-    
-    <!-- <li>
-      <strong><a href="https://pubmed.ncbi.nlm.nih.gov/38429559/" target="_blank">A Systematic Review on Caries Detection, Classification, and Segmentation from X-Ray Images: Methods, Datasets, Evaluation, and Open Opportunities</a></strong>
-      <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">Journal Imaging Inform Med. Published online March 1, 2024.</em> DOI: <a href="https://doi.org/10.1007/s10278-024-01054-5" target="_blank">https://doi.org/10.1007/s10278-024-01054-5</a>
-    </li> -->
-    
-    <!-- <li>
-      <strong><a href="https://www.scitepress.org/Papers/2024/123653/123653.pdf" target="_blank">Segmentation and Classification of Dental Caries in Cone Beam Tomography Images using Machine Learning and Image Processing</a></strong>
-      <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF, pages 428-435.</em> DOI: <a href="https://doi.org/10.5220/0012365300003657" target="_blank">https://doi.org/10.5220/0012365300003657</a>
-    </li> -->
-    
-    <!-- <li>
-      <strong><a href="https://sol.sbc.org.br/index.php/sbcas/article/view/25272" target="_blank">Identification and quantification of caries from CBCT segmented images</a></strong>
-      <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen
-      <br/><em style="color:seagreen;">In Proceedings of the 23rd Brazilian Symposium on Computing Applied to Health, June 27, 2023, São Paulo/SP, Brazil. SBC, Brasil, 1-12.</em> DOI: <a href="https://doi.org/10.5753/sbcas.2023.229376" target="_blank">https://doi.org/10.5753/sbcas.2023.229376</a>
-    </li> -->
-    
-    <!-- <li>
-      <strong><a href="https://doi.org/10.5753/eniac.2022.227585" target="_blank">Convolutional architectures with LSTM and TCN to embolism classification: exploring dependency between data</a></strong>
-      <br/><u><em>Luiz Zanini</em></U>, Aldomar Silva, Felipe Almeida, Fátima Nunes, and Anna Costa
-      <br/><em style="color:seagreen;">In Proceedings of the 19th National Meeting on Artificial and Computational Intelligence, November 28, 2022, Brazil. SBC, Brasil, 461-472.</em> DOI: <a href="https://doi.org/10.5753/eniac.2022.227585" target="_blank">https://doi.org/10.5753/eniac.2022.227585</a>
-    </li> -->
+## Grants
+<div class="justify-text">
+  <ul>
+    <li>
+      <strong>Master’s Data Science Center (C2D) Fellowship</strong> - (Itaú-Unbanco, #86 in the <a href="https://www.forbes.com/lists/global2000/" target="_blank">Global Forbes List</a>)
+    </li>
+    <li>
+      <strong>Pre-Master’s (C2D) Fellowship</strong> (Itaú-Unibanco)
+    </li>
+    <li>
+      <strong>2 A.M. Consulting Research Grant</strong>
+    </li>
+    <li>
+      <strong>Scientific Scholarship Program</strong> - Scientific Scholarship Program - National Council for Scientific and Technological Development
+    </li>
+    <li>
+      <strong>Foundation for Engineering Research and Development Research Grant</strong>
+    </li>
   </ul>
 </div>
 
@@ -174,12 +162,9 @@ a[href="/feed.xml"] {
   <ul>
     <li>
       <strong>Nomination for Best Final Paper of the Computer Engineering Poli - USP 2023</strong>
-      <!-- <br/>The final project involved using image processing for segmentation and machine learning to classify the intensity of caries, as well as incorporating virtual reality for result visualization. -->
     </li>
-    
-    <!-- <li>
-      <a><strong>Second place for best paper in the undergraduate category at the National Meeting of Artificial and Computational Intelligence (ENIAC)</strong></a>
-      <br/>The research focused on image classification in computed tomography for pulmonary embolism classification, leveraging convolutional architectures with LSTM and TCN modules.
-    </li> -->
+    <li>
+      <strong>Best Project - Digital Systems Laboratory II</strong> - Implemented a Bayesian filtering algorithm on FPGA to enhance low-cost sensor reliability
+    </li>
   </ul>
 </div>

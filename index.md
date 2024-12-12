@@ -19,7 +19,7 @@ body{ /* Normal  */
 }
 
 .author__name{
-    margin-bottom: 20px; /* Adjust space after name */
+    /* margin-bottom: 20px; Adjust space after name */
     text-align: center;
 }
 
@@ -69,10 +69,10 @@ a[href="/feed.xml"] {
 </style>
 
 
-<div class="justify-text">
+<!-- <div class="justify-text">
   
   <p>Hello, my name is Gabriel Shimanuki.</p>
-</div>
+</div> -->
 
 ## Biography
 <div class="justify-text">
@@ -90,12 +90,17 @@ a[href="/feed.xml"] {
 
   <p> My research interests include Artificial Intelligence, Machine Learning, Robotics, and Simulation, with a focus on practical and scalable solutions. My projects have been supported by renowned institutions, including <a href="https://www-gov-br.translate.goog/mcti/pt-br?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">CNPq</a>, <a href="https://www-fdte-org-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">FDTE</a>, and <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Itaú-Unibanco (Data Science Center)</a>. Through these efforts, I aim to contribute to the development of safe, accessible, and efficient autonomous technologies, inspired by a legacy of innovation and societal progress. My vision is to advance robotics and autonomous systems as transformative solutions, fostering collaboration and accessibility to address critical societal challenges.</p>
 
-  Studies test
+  <!-- Studies test -->
 </div>
 
 ## Publications
 <div class="justify-text">
   <ul>
+
+    <li>
+    Nascimento, A., <u><em>Shimanuki, G.</em></u>, & Dias, L. (2024, July). <strong>Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> <a href="https://doi.org/10.3390/app14114880" target="_blank"> https://doi.org/10.3390/app14114880</a>
+    </li>
+    
     <!-- <li>
       <strong>Enhancing Dental Caries Classification in CBCT Images by using Image Processing and Self-Supervised Learning</strong>
       <br/><u><em>Luiz Zanini</em></U>, Fátima Nunes, and Izabel Rubira-Bullen

@@ -15,14 +15,14 @@
         <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
       </h3>
 
-      <h5 class="author__title">
+      <p class="author__title">
         MSc student, Safety Analysis Group
-      </h5>
+      </p>
 
       <!-- Insert the email just below the name -->
-      <small class="author__email">
+      <p class="author__email">
         {{ author.email | default: "gabrielshimanuki [at] usp [dot] br" }}
-      </small>
+      </p>
 
 
     </div>

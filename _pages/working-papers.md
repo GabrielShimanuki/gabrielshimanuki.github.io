@@ -19,7 +19,7 @@ body{ /* Normal  */
 }
 
 .author__name{
-    margin-bottom: 20px; /* Adjust space after name */
+    /* margin-bottom: 20px; Adjust space after name */
     text-align: center;
 }
 

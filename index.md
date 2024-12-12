@@ -4,7 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
-last_modified_at: 2024-08-26
+last_modified_at: 2024-11-30
 
 ---
 <style type="text/css">
@@ -102,11 +102,11 @@ a[href="/feed.xml"] {
     </li>
 
     <li>
-    Nascimento, A., <u><em>Shimanuki, G.</em></u>, & Dias, L. (2024, July). <strong>Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> <a href="https://doi.org/10.3390/app14114880" target="_blank"> https://doi.org/10.3390/app14114880</a>
+    <u><em>Shimanuki, G.</em></u>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</em></u>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
+    Nascimento, A., <u><em>Shimanuki, G.</em></u>, & Dias, L. (2024, July). <strong>Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> <a href="https://doi.org/10.3390/app14114880" target="_blank"> https://doi.org/10.3390/app14114880</a>
     </li>
 
     <li>

@@ -18,6 +18,11 @@ body{ /* Normal  */
     padding-right:10%;
 }
 
+.author__name{
+  margin-bottom: 20px; /* Adjust space after name */
+  text-align: center;
+}
+
 .author__content{
     text-align: center;
 

@@ -1,0 +1,37 @@
+/* Styling the author's bio section */
+.author__bio {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background-color: #f9f9f9; /* Light background for readability */
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif; /* Clean, readable font */
+    font-size: 1rem;
+    line-height: 1.6; /* More comfortable line spacing */
+    text-align: justify; /* Justify the text */
+    color: #333; /* Darker text color for contrast */
+  }
+  
+  /* Heading for the bio section */
+  .author__bio h4 {
+    font-size: 1.75rem;
+    color: #222; /* Darker heading color */
+    margin-bottom: 1rem;
+    font-weight: 600; /* Slightly bolder for emphasis */
+  }
+  
+  /* Make links in the bio blue, just like typical web links */
+  .author__bio a {
+    color: #007bff; /* Blue link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .author__bio a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  /* Optionally, style the bibliography title */
+  .bibliography-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #444;
+  }

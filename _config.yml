@@ -73,7 +73,8 @@ author:
   name             : "Gabriel Kenji G. Shimanuki"
   avatar           : "/assets/images/GS_profile_crop_2023.JPEG"
   # bio              : "Researcher in Computer Engineering focusing on machine learning applied to autonomous vehicles safety - <strong>[USP](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
-  bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
+  # bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
+  bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/>"
   location         : "São Paulo, Brazil"
   links:
     - label: "LinkedIn"

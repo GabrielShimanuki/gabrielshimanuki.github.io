@@ -14,6 +14,13 @@
       <h3 class="author__name p-name" itemprop="name">
         <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
       </h3>
+
+      <!-- Insert the email just below the name -->
+      <p class="author__email">
+        {{ author.email | default: "gabrielshimanuki [at] usp [dot] br" }}
+      </p>
+
+
     </div>
   {% endif %}
 

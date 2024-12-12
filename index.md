@@ -70,17 +70,25 @@ a[href="/feed.xml"] {
 
 
 <div class="justify-text">
-  <!-- <p>Hi, my name is Gabriel Shimanuki, but everyone calls me Luiz. I'm really passionate about applied computing, especially in computer vision, which has been my research focus for the past few years.</p> -->
+  
   <p>Hello, my name is Gabriel Shimanuki.</p>
 </div>
 
-## Studies
+## Biography
 <div class="justify-text">
-  <!-- <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>. My advisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>, and my co-advisor is <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>.</p> -->
+  <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>. My advisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>, and my co-advisor is <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>.</p>
   
   <!-- <p>I completed my master’s degree in Electrical Engineering at <a href="https://www5.usp.br/" target="_blank">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p> -->
   
   <!-- <p>I earned my Bachelor's degree in Computing from <a href="https://www.poli.usp.br/" target="_blank">Universidade Politécnica de São Paulo</a>, where I also participated in a pre-master's program while completing my degree in Computer Engineering.</p> -->
+
+  <a href="" target="_blank">
+
+  <p> I am a Master’s student in Electrical and Computer Engineering at the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Polytechnic School</a> of the <a href="https://www5.usp.br/english/institutional/" target="_blank">University of São Paulo</a>, ranked as the leading university in Latin America <a href="https://www.topuniversities.com/world-university-rankings?page=3" target="_blank">#92 QS World University Ranking</a>. I conduct research within the Safety Analysis Group under the supervision of Prof. Paulo Sérgio Cugnasca and Dr. Alexandre Moreira Nascimento. My work focuses on enhancing the safety and optimization of autonomous systems, with the aim of creating reliable technologies capable of making safe decisions under uncertainty. My long-term goal is to accelerate the adoption of autonomous systems, including robotics and autonomous vehicles, and extend their societal benefits globally, particularly in developing regions.</p>
+
+  <p> I obtained my B.Sc. in Computer Engineering from the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Polytechnic School</a> of the University of São Paulo, where I graduated among the top 10% of my class. During my undergraduate studies, I developed a robust safety investigation framework for autonomous vehicles, which led to award-winning projects recognized for advancing critical scenario generation and fault injection techniques. My current research builds on this foundation, integrating cutting-edge simulation tools such as CARLA and Scenic with hardware-in-the-loop systems using platforms like Arduino and FPGA to bridge the gap between simulation and real-world applications. </p>
+
+  <p> My research interests include Artificial Intelligence, Machine Learning, Robotics, and Simulation, with a focus on practical and scalable solutions. My projects have been supported by renowned institutions, including <a href="https://www-gov-br.translate.goog/mcti/pt-br?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">CNPq</a>, <a href="https://www-fdte-org-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">FDTE</a>, and <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Itaú-Unibanco (Data Science Center)</a>. Through these efforts, I aim to contribute to the development of safe, accessible, and efficient autonomous technologies, inspired by a legacy of innovation and societal progress. My vision is to advance robotics and autonomous systems as transformative solutions, fostering collaboration and accessibility to address critical societal challenges.</p>
 
   Studies test
 </div>

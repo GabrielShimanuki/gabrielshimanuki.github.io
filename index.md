@@ -76,7 +76,7 @@ a[href="/feed.xml"] {
 
 ## Biography
 <div class="justify-text">
-  <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>. My advisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>, and my co-advisor is <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>.</p>
+  <!-- <p>I am currently a first-year PhD student in <a href="https://www.etsmtl.ca/" target="_blank">Engineering</a> at <a href="https://www.etsmtl.ca/" target="_blank">École de Technologie Supérieure (ÉTS)</a>, where my research focuses on <em>Multimodal Learning</em> in the process of <em>Emotional Recognition</em>. My advisor is <a href="https://liviamtl.ca/pages/regular-members/koerich-1/" target="_blank">Prof. Alessandro Koerchi</a>, and my co-advisor is <a href="https://liviamtl.ca/pages/regular-members/granger-1/" target="_blank">Prof. Éric Granger</a>.</p> -->
   
   <!-- <p>I completed my master’s degree in Electrical Engineering at <a href="https://www5.usp.br/" target="_blank">University of São Paulo (USP)</a>, where I focused on <em>Classical Image Processing</em> and <em>Machine Learning</em> for medical images. During my master’s degree, I was under the supervision of <a href="https://bv.fapesp.br/en/pesquisador/87823/fatima-de-lourdes-dos-santos-nunes-marques/" target="_blank">Prof. Fátima de Lourdes dos Santos Nunes</a>.</p> -->
   

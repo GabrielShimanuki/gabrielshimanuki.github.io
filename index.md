@@ -98,7 +98,7 @@ a[href="/feed.xml"] {
   <ul>
 
     <li>
-    <u><em>Shimanuki, G.</u></em> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
+    <u><em>Shimanuki, G.</em></u> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
     </li>
 
     <li>

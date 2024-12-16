@@ -79,11 +79,6 @@ a[href="/feed.xml"] {
 
 ## Adaptive Bayesian Filtering in Action
 
-<div class="image-text-container" style="display: flex; align-items: center;">
-  <div class="image-container" style="flex: 1; padding-right: 10px;">
-    <img src="{{ '/assets/images/fpga-image.jpg' | relative_url }}" alt="FPGA Image" style="width: 100%; height: auto;">
-  </div>
-  <div class="text-container" style="flex: 2;">
-    <p>This project focuses on implementing an adaptive Bayesian filter on an FPGA to enhance the accuracy of low-cost sensors, specifically the HC-SR04 ultrasonic sensor. The filter, based on Bayesian networks, is developed using VHDL and processes floating-point data. Experimental results demonstrate improvements in the variance of the filtered measurements compared to the raw readings, although optimizing the filter parameters remains a challenge. The project validates the model's functionality and suggests that large-scale testing could be a valuable direction for future research.</p>
-  </div>
-</div>
+![FPGA Image](/assets/images/fpga-image.jpg){: .align-left}
+
+This project focuses on implementing an adaptive Bayesian filter on an FPGA to enhance the accuracy of low-cost sensors, specifically the HC-SR04 ultrasonic sensor. The filter, based on Bayesian networks, is developed using VHDL and processes floating-point data. Experimental results demonstrate improvements in the variance of the filtered measurements compared to the raw readings, although optimizing the filter parameters remains a challenge. The project validates the model's functionality and suggests that large-scale testing could be a valuable direction for future research.

@@ -1,7 +1,11 @@
 ---
 layout: single
-title: "Adaptive Bayesian Filtering in Action"
-permalink: /working-papers/adaptive-bayesian-filter/
+author_profile: true
+toc: false
+toc_label: "Contents"
+toc_icon: "cog"
+# last_modified_at: 2024-12-03
+permalink: /_pages/working_papers/adaptive-bayesian-filter/
 ---
 
 <style type="text/css">

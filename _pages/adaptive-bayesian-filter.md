@@ -2,11 +2,6 @@
 layout: single
 title: "Adaptive Bayesian Filtering in Action"
 permalink: /working-papers/adaptive-bayesian-filter/
-date: 2024-12-03
-author_profile: true
-toc: true
-toc_sticky: true
-classes: wide
 ---
 
 <style type="text/css">

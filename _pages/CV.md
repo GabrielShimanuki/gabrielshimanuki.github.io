@@ -4,6 +4,7 @@ author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
+permalink: /_pages/cv/
 ---
 <style type="text/css">
 

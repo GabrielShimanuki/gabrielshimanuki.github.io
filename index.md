@@ -66,6 +66,10 @@ a[href="/feed.xml"] {
   display: none;
 }
 
+.no-margin {
+  margin: 0 !important;
+}
+
 </style>
 
 
@@ -84,11 +88,11 @@ a[href="/feed.xml"] {
 
   <a href="" target="_blank">
 
-  <p> I am a Master’s student in Electrical and Computer Engineering at the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Polytechnic School</a> of the <a href="https://www5.usp.br/english/institutional/" target="_blank">University of São Paulo</a>, ranked as the leading university in Latin America <a href="https://www.topuniversities.com/world-university-rankings?page=3" target="_blank">#92 QS World University Ranking</a>. I conduct research within the Safety Analysis Group under the supervision of Prof. Paulo Sérgio Cugnasca and Dr. Alexandre Moreira Nascimento. My work focuses on enhancing the safety and optimization of autonomous systems, with the aim of creating reliable technologies capable of making safe decisions under uncertainty. My long-term goal is to accelerate the adoption of autonomous systems, including robotics and autonomous vehicles, and extend their societal benefits globally, particularly in developing regions.</p>
+  <p> I am a Master’s student in Electrical and Computer Engineering at the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">Polytechnic School</a> of the <a href="https://www5.usp.br/english/institutional/" target="_blank" style="color: #0066cc;">University of São Paulo</a>, ranked as the leading university in Latin America <a href="https://www.topuniversities.com/world-university-rankings?page=3" target="_blank" style="color: #0066cc;">#92 QS World University Ranking</a>. I conduct research within the Safety Analysis Group under the supervision of Prof. Paulo Sérgio Cugnasca and Dr. Alexandre Moreira Nascimento. My work focuses on enhancing the safety and optimization of autonomous systems, with the aim of creating reliable technologies capable of making safe decisions under uncertainty. My long-term goal is to accelerate the adoption of autonomous systems, including robotics and autonomous vehicles, and extend their societal benefits globally, particularly in developing regions.</p>
 
-  <p> I obtained my B.Sc. in Computer Engineering from the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Polytechnic School</a> of the University of São Paulo, where I graduated among the top 10% of my class. During my undergraduate studies, I developed a robust safety investigation framework for autonomous vehicles, which led to award-winning projects recognized for advancing critical scenario generation and fault injection techniques. My current research builds on this foundation, integrating cutting-edge simulation tools such as CARLA and Scenic with hardware-in-the-loop systems using platforms like Arduino and FPGA to bridge the gap between simulation and real-world applications. </p>
+  <p> I obtained my B.Sc. in Computer Engineering from the <a href="https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">Polytechnic School</a> of the University of São Paulo, where I graduated among the top 10% of my class. During my undergraduate studies, I developed a robust safety investigation framework for autonomous vehicles, which led to award-winning projects recognized for advancing critical scenario generation and fault injection techniques. My current research builds on this foundation, integrating cutting-edge simulation tools such as CARLA and Scenic with hardware-in-the-loop systems using platforms like Arduino and FPGA to bridge the gap between simulation and real-world applications. </p>
 
-  <p> My research interests include Artificial Intelligence, Machine Learning, Robotics, and Simulation, with a focus on practical and scalable solutions. My projects have been supported by renowned institutions, including <a href="https://www-gov-br.translate.goog/mcti/pt-br?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">CNPq</a>, <a href="https://www-fdte-org-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">FDTE</a>, and <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank">Itaú-Unibanco (Data Science Center)</a>. Through these efforts, I aim to contribute to the development of safe, accessible, and efficient autonomous technologies, inspired by a legacy of innovation and societal progress. My vision is to advance robotics and autonomous systems as transformative solutions, fostering collaboration and accessibility to address critical societal challenges.</p>
+  <p> My research interests include Artificial Intelligence, Machine Learning, Robotics, and Simulation, with a focus on practical and scalable solutions. My projects have been supported by renowned institutions, including <a href="https://www-gov-br.translate.goog/mcti/pt-br?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">CNPq</a>, <a href="https://www-fdte-org-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">FDTE</a>, and <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">Itaú-Unibanco (Data Science Center)</a>. Through these efforts, I aim to contribute to the development of safe, accessible, and efficient autonomous technologies, inspired by a legacy of innovation and societal progress. My vision is to advance robotics and autonomous systems as transformative solutions, fostering collaboration and accessibility to address critical societal challenges.</p>
 
   <!-- Studies test -->
 </div>
@@ -98,7 +102,7 @@ a[href="/feed.xml"] {
   <ul>
 
     <li>
-    <u><em>Shimanuki, G.</em></u> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
+    <u><em>Shimanuki, G.</em></u> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP). <a href="/assets/pdf/CC/Presentation - Qualifying Exam - EN.pdf" class="btn btn--inverse btn--small">Presentation</a>
     </li>
 
     <li>
@@ -122,16 +126,17 @@ a[href="/feed.xml"] {
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</em></u> (2022, October). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lateral Control Algorithm for Lane Change in Autonomous Vehicles.</strong> 30th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    <u><em>Shimanuki, G.</em></u> (2022, October). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lateral Control Algorithm for Lane Change in Autonomous Vehicles.</strong> 30th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese). <a href="/assets/pdf/siicusp/SIICUSP-2022.pdf" class="btn btn--inverse btn--small">Short Paper</a>
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</em></u> (2021, November). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lane Crossing Control Algorithm for Autonomous Vehicles.</strong> 29th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    <u><em>Shimanuki, G.</em></u> (2021, November). <strong>Analysis of the Influence of the Safety Zone on the Effectiveness of the Lane Crossing Control Algorithm for Autonomous Vehicles.</strong> 29th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese). <a href="/assets/pdf/siicusp/SIICUSP-2021.pdf" class="btn btn--inverse btn--small">Short Paper</a>
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</em></u> (2020, October). <strong>Influence of the Safety Zone on Accident Risk with Autonomous Vehicles.</strong> 28th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese).
+    <u><em>Shimanuki, G.</em></u> (2020, October). <strong>Influence of the Safety Zone on Accident Risk with Autonomous Vehicles.</strong> 28th University of São Paulo's International Symposium of Undergraduate Research (originally presented in Portuguese). <a href="/assets/pdf/siicusp/SIICUSP-2020.pdf" class="btn btn--inverse btn--small">Short Paper</a>
     </li>
+    
 
   </ul>
 </div>
@@ -140,10 +145,10 @@ a[href="/feed.xml"] {
 <div class="justify-text">
   <ul>
     <li>
-      <strong>Master’s Data Science Center (C2D) Fellowship</strong> - (Itaú-Unbanco, #86 in the <a href="https://www.forbes.com/lists/global2000/" target="_blank">Global Forbes List</a>)
+      <strong>Master’s Data Science Center (C2D) Fellowship</strong> - (Itaú-Unbanco, #86 in the <a href="https://www.forbes.com/lists/global2000/" target="_blank" style="color: #0066cc;">Global Forbes List</a>)
     </li>
     <li>
-      <strong>Pre-Master’s (C2D) Fellowship</strong> (Itaú-Unibanco)
+      <strong>Pre-Master’s <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">(C2D)</a> Fellowship</strong> (Itaú-Unibanco)
     </li>
     <li>
       <strong>2 A.M. Consulting Research Grant</strong>

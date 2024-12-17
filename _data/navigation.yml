@@ -14,7 +14,8 @@ main:
   - title: "CV"
     # url: /assets/pdf/resume.pdf
     # url: /assets/pdf/one-page-CV-oct-24.pdf
-    url: /assets/pdf/SHIMANUKI_CV_DEZ_24.pdf
+    # url: /assets/pdf/SHIMANUKI_CV_DEZ_24.pdf
+    url: /_pages/cv/
     
   # - title: "Sample Collections"
   #   url: /collection-archive/

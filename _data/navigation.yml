@@ -20,3 +20,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  - title: "Adaptative Bayesian Filter"  # Add your new page here
+    url: /_pages/adaptive-bayesian-filter/

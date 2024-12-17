@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "Adaptive Bayesian Filtering in Action"
 permalink: /adaptive-bayesian-filter/
@@ -7,6 +7,12 @@ author_profile: true
 toc: true
 toc_sticky: true
 classes: wide
+--- -->
+
+---
+title: "Adaptative Bayesian Filter"
+layout: single
+permalink: /working-papers/adaptive-bayesian-filter/
 ---
 
 <style type="text/css">

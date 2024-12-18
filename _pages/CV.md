@@ -82,9 +82,8 @@ a[href="/feed.xml"] {
 _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 **Location:** São Paulo, Brazil  
 **Email:** **gabrielshimanuki** [at] {**usp** *or*  **hotmail**} [dot] **br** <br>
-**Phone:** +55 11 99669 0766  
 **Website:** [https://gabrielshimanuki.github.io/](https://gabrielshimanuki.github.io/) <br>
-[PDF CV](/assets/pdf/SHIMANUKI_CV_DEZ_24.pdf){: .btn .btn--success .no-margin}
+[PDF CV](/assets/pdf/SHIMANUKI_CV_DEZ_24_no_p.pdf){: .btn .btn--success .no-margin}
 
 <!-- --- -->
 ## Education

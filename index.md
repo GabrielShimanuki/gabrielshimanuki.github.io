@@ -102,15 +102,16 @@ a[href="/feed.xml"] {
   <ul>
 
     <li>
-    <u><em>Shimanuki, G.</em></u> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP). <a href="/assets/pdf/CC/Presentation - Qualifying Exam - EN.pdf" class="btn btn--inverse btn--small">Presentation</a>
+    <u><em>Shimanuki, G.</em></u> (2024). <strong>Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment.</strong> Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP).
     </li>
 
     <li>
-    <u><em>Shimanuki, G.</em></u>, Nascimento, A., & Queiroz, A. (2024, August). <strong>Enhancing academic performance prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2024/2/" target="_blank">ISLA 2024 Proceedings</a>.
+    <u><em>Shimanuki, Gabriel</em></u>; Nascimento, Alexandre; and Queiroz, Anna C. M., <strong>"Enhancing Academic Performance Prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics"</strong> (2024). ISLA 2024 Proceedings. 2.
+    <a href="https://aisel.aisnet.org/isla2024/2" target="_blank">https://aisel.aisnet.org/isla2024/2</a>
     </li>
 
     <li>
-    Nascimento, A., <u><em>Shimanuki, G.</em></u>, & Dias, L. (2024, July). <strong>Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> <a href="https://doi.org/10.3390/app14114880" target="_blank"> https://doi.org/10.3390/app14114880</a>
+    Nascimento, A. M., <u><em>Shimanuki, G. K. G.</em></u>, & Dias, L. A. V. (2024). <strong>Making More with Less: Improving Software Testing Outcomes Using a Cross-Project and Cross-Language ML Classifier Based on Cost-Sensitive Training.</strong> Applied Sciences, 14(11), 4880. <a href="https://doi.org/10.3390/app14114880" target="_blank">https://doi.org/10.3390/app14114880</a>
     </li>
 
     <li>
@@ -118,7 +119,8 @@ a[href="/feed.xml"] {
     </li>
 
     <li>
-    Nascimento, A., Queiroz, A., & <u><em>Shimanuki, G.</em></u> (2023, August). <strong>An Enhanced Artificial Neural Network Approach to Predict Student Dropout From Imbalanced Datasets.</strong> Presented in the <a href="https://aisel.aisnet.org/isla2023/15/" target="_blank">ISLA 2023 Proceedings</a>.
+    Nascimento, Alexandre; Queiroz, Anna C. M.; and <u><em>Godoy Shimanuki, Gabriel Kenji</em></u>, <strong>"An Enhanced Artificial Neural Network Approach To Predict Student Dropout From Imbalanced Datasets"</strong> (2023). ISLA 2023 Proceedings. 15.
+    <a href="https://aisel.aisnet.org/isla2023/15" target="_blank">https://aisel.aisnet.org/isla2023/15</a>
     </li>
 
     <li>

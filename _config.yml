@@ -242,4 +242,4 @@ markdown_extensions:
   - tables
   - md_in_html
 
-favicon: "/assets/images/website-icon-c-64.png"
+favicon: "/assets/images/website-icon-64.png"

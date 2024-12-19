@@ -79,4 +79,30 @@ a[href="/feed.xml"] {
 
 ![FPGA Image](/assets/images/fpga_image.png){: .small-image}
 
+<div class="justify-text">
 This project focuses on implementing an adaptive Bayesian filter on an FPGA to enhance the accuracy of low-cost sensors, specifically the HC-SR04 ultrasonic sensor. The filter, based on Bayesian networks, is developed using VHDL and processes floating-point data. Experimental results demonstrate improvements in the variance of the filtered measurements compared to the raw readings, although optimizing the filter parameters remains a challenge. The project validates the model's functionality and suggests that large-scale testing could be a valuable direction for future research. [Read More](/_pages/working_papers/adaptive-bayesian-filter/){: .btn .btn--primary .no-margin}
+</div>
+
+## Systematic Literature Review of Corner Case Identification and Generation
+
+![Corner Case SLR](/assets/images/SLR/CC_cover.png){: .small-image}
+
+<div class="justify-text">
+This systematic literature review investigates the critical role of corner case identification and generation in autonomous vehicle (AV) testing, aiming to bridge gaps in safety and robustness research. By analyzing state-of-the-art methodologies, this review highlights the importance of corner cases in evaluating AV systems' ability to handle rare but high-risk scenarios. It also addresses the limitations of previous studies, such as outdated coverage, insufficient focus on generation methods, and reproducibility challenges. This brief work provides a comprehensive overview of the advancements, regional trends, and future directions in this field. [Read More](/_pages/working_papers/slr-corner-case/){: .btn .btn--primary .no-margin}
+</div>
+
+<div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;">
+<small>Image source: <a href="https://medium.com/anyverse/detecting-corner-cases-for-visual-perception-in-autonomous-driving-82580ef373ac" target="_blank">Medium</a></small>
+</div>
+
+## Automated Generation of Corner Case Scenarios for Enhancing Autonomous Vehicle Safety
+
+![Corner Case SLR](/assets/images/CC_GENERATION/CARLA_cover.png){: .small-image}
+
+<div class="justify-text">
+This project aims to advance the safety of autonomous vehicles (AVs) by developing an automated framework to generate and evaluate critical corner case scenarios. These scenarios, which expose AV systems to rare and high-risk situations, are essential for ensuring the reliability of AV control algorithms. By integrating CARLA and Scenic, a robust simulation environment is created to define complex traffic conditions. A Genetic Algorithm (GA) refines these scenarios iteratively, guided by risk metrics and customized heuristics. This framework generates high-fidelity datasets that enhance AV training and testing, improving their ability to handle real-world challenges. [Read More](/_pages/working_papers/corner-case-generation/){: .btn .btn--primary .no-margin}
+</div>
+
+<div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;">
+<small>Image source: <a href="https://carla.readthedocs.io/en/0.9.15/catalogue_vehicles/" target="_blank">CARLA</a></small>
+</div>

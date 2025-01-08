@@ -179,12 +179,21 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 
 <!-- --- -->
 
-## Grants  
+<!-- ## Grants  
 - **Master’s Data Science Center (C2D) Fellowship (Itaú-Unibanco)** - Jan 2024  
 - **Pre-Master’s C2D Fellowship (Itaú-Unibanco)** - Jan 2023  
 - **2 A.M. Consulting Research Grant** - Jan 2022  
 - **Scientific Scholarship Program (CNPq)** - Aug 2021  
-- **Foundation for Engineering Research and Development (FDTE) Research Grant** - June 2020  
+- **Foundation for Engineering Research and Development (FDTE) Research Grant** - June 2020   -->
+
+## Grants
+
+- **Master’s Data Science Center (C2D) Fellowship** ([Itaú-Unibanco](https://www.forbes.com/lists/global2000/)) – the largest bank in Latin America, #86 in the *Global Forbes List* – Jan 2024  
+- **Pre-Master’s C2D Fellowship** ([Itaú-Unibanco](https://www.forbes.com/lists/global2000/)) – Jan 2023  
+- **2 A.M. Consulting Research Grant** – (2 A.M. Consulting is a specialized research and advisory firm) – Jan 2022  
+- **Scientific Scholarship Program** ([CNPq](https://www.gov.br/jbrj/en/subjects/education/programa-institucional-de-bolsas-de-iniciacao-cientifica-pibic)) – the largest Brazilian government agency fostering scientific and technological advancement – Aug 2021  
+- **Foundation for Engineering Research and Development (FDTE) Research Grant** ([FDTE](https://www-fdte-org-br.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp)) – a non-profit institution supporting research and technological innovation in engineering in Brazil – June 2020
+
 
 <!-- --- -->
 

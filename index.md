@@ -147,19 +147,19 @@ a[href="/feed.xml"] {
 <div class="justify-text">
   <ul>
     <li>
-      <strong>Master’s Data Science Center (C2D) Fellowship</strong> - (Itaú-Unbanco, #86 in the <a href="https://www.forbes.com/lists/global2000/" target="_blank" style="color: #0066cc;">Global Forbes List</a>)
+      <strong>Master’s Data Science Center <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">(C2D)</a> Fellowship</strong> - (Itaú-Unbanco, the largest bank in Latin America, #86 in the <a href="https://www.forbes.com/lists/global2000/" target="_blank" style="color: #0066cc;">Global Forbes List</a>)
     </li>
     <li>
-      <strong>Pre-Master’s <a href="https://c2d-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">(C2D)</a> Fellowship</strong> (Itaú-Unibanco)
+      <strong>Pre-Master’s (C2D) Fellowship</strong> (Itaú-Unibanco)
     </li>
     <li>
-      <strong>2 A.M. Consulting Research Grant</strong>
+      <strong>2 A.M. Consulting Research Grant</strong> – (2 A.M. Consulting is a specialized research and advisory firm)
     </li>
     <li>
-      <strong>Scientific Scholarship Program</strong> - National Council for Scientific and Technological Development
+      <strong>Scientific Scholarship Program</strong> - (National Council for Scientific and Technological Development, <a href="https://www.gov.br/jbrj/en/subjects/education/programa-institucional-de-bolsas-de-iniciacao-cientifica-pibic" target="_blank" style="color: #0066cc;">CNPq</a> - the largest Brazilian government agency that fosters scientific and technological advancement)
     </li>
     <li>
-      <strong>Foundation for Engineering Research and Development Research Grant</strong>
+      <strong>Foundation for Engineering Research and Development Research Grant</strong> – (<a href="https://www-fdte-org-br.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="color: #0066cc;">FDTE</a> – a non-profit institution supporting research and technological innovation in engineering in Brazil)
     </li>
   </ul>
 </div>

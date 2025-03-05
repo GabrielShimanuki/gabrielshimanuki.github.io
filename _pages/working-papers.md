@@ -85,9 +85,9 @@ This project focuses on implementing an adaptive Bayesian filter on an FPGA to e
 </div>
 
 <!-- ## Systematic Literature Review of Corner Case Identification and Generation -->
-## Automating Corner Case Generation in Traffic Scenarios: A Systematic Literature Review
+<!-- ## Automating Corner Case Generation in Traffic Scenarios: A Systematic Literature Review -->
 
-![Corner Case SLR](/assets/images/SLR/CC_cover.png){: .small-image}
+<!-- ![Corner Case SLR](/assets/images/SLR/CC_cover.png){: .small-image}
 
 <div class="justify-text">
 This systematic literature review investigates the critical role of corner case identification and generation in autonomous vehicle (AV) testing, aiming to bridge gaps in safety and robustness research. By analyzing state-of-the-art methodologies, this review highlights the importance of corner cases in evaluating AV systems' ability to handle rare but high-risk scenarios. It also addresses the limitations of previous studies, such as outdated coverage, insufficient focus on generation methods, and reproducibility challenges. This brief work provides a comprehensive overview of the advancements, regional trends, and future directions in this field. [Read More](/_pages/working_papers/slr-corner-case/){: .btn .btn--primary .no-margin}
@@ -95,7 +95,7 @@ This systematic literature review investigates the critical role of corner case 
 
 <div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;">
 <small>Image source: <a href="https://medium.com/anyverse/detecting-corner-cases-for-visual-perception-in-autonomous-driving-82580ef373ac" target="_blank">Medium</a></small>
-</div>
+</div> -->
 
 <!-- ## Automated Generation of Corner Case Scenarios for Enhancing Autonomous Vehicle Safety -->
 ## Genetic Algorithm-Driven Corner Case Generation: Advancing Simulation for Safer Autonomous Vehicle Systems

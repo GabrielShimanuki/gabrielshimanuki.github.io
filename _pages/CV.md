@@ -161,7 +161,7 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 - **Nascimento, A., Garcia, W., Garcia, A., Queiroz, A., Garcia, E., Bandeira, F., Shimanuki, G., & Satin, L.** *(under editorial review)*. *Set of Mock Exams for the ENEM (Brazilian National High School Exam)*, 2nd edition.
 
 ### Peer-Reviewed Journal Publications  
-- **Shimanuki, G.; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025, February)** *Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety*. [arXiv:2503.00077](https://arxiv.org/abs/2503.00077) - *Under Review*
+- **Shimanuki, G.; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025, February)** *Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety*. [10.48550/arXiv.2503.00077](https://doi.org/10.48550/arXiv.2503.00077) - *Under Review*
 - **Nascimento, A., Shimanuki, G., & Dias, L. (2024, July).** *Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training*. [10.3390/app14114880](https://doi.org/10.3390/app14114880).
 
 ### Peer-Reviewed Conference Publications  

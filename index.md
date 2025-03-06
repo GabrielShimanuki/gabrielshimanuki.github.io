@@ -102,7 +102,7 @@ a[href="/feed.xml"] {
   <ul>
 
     <li>
-    <u><em>Shimanuki, G.</em></u>; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025). <strong>Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety</strong>. <a href="https://arxiv.org/abs/2503.00077" target="_blank">arXiv:2503.00077</a> - Under Review
+    <u><em>Shimanuki, G.</em></u>; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025). <strong>Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety</strong>. <a href="https://doi.org/10.48550/arXiv.2503.00077" target="_blank">https://doi.org/10.48550/arXiv.2503.00077</a> - Under Review
     </li>
 
     <li>

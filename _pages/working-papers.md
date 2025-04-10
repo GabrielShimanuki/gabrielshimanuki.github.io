@@ -98,9 +98,9 @@ This systematic literature review investigates the critical role of corner case 
 </div> -->
 
 <!-- ## Automated Generation of Corner Case Scenarios for Enhancing Autonomous Vehicle Safety -->
-## Genetic Algorithm-Driven Corner Case Generation: Advancing Simulation for Safer Autonomous Vehicle Systems
+<!-- ## Genetic Algorithm-Driven Corner Case Generation: Advancing Simulation for Safer Autonomous Vehicle Systems -->
 
-![Corner Case Generation](/assets/images/CC_GENERATION/CARLA_cover.png){: .small-image}
+<!-- ![Corner Case Generation](/assets/images/CC_GENERATION/CARLA_cover.png){: .small-image}
 
 <div class="justify-text">
 This project aims to advance the safety of autonomous vehicles (AVs) by developing an automated framework to generate and evaluate critical corner case scenarios. These scenarios, which expose AV systems to rare and high-risk situations, are essential for ensuring the reliability of AV control algorithms. By integrating CARLA and Scenic, a robust simulation environment is created to define complex traffic conditions. A Genetic Algorithm (GA) refines these scenarios iteratively, guided by risk metrics and customized heuristics. This framework generates high-fidelity datasets that enhance AV training and testing, improving their ability to handle real-world challenges. [Read More](/_pages/working_papers/corner-case-generation/){: .btn .btn--primary .no-margin}
@@ -108,7 +108,7 @@ This project aims to advance the safety of autonomous vehicles (AVs) by developi
 
 <div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;">
 <small>Image source: <a href="https://carla.readthedocs.io/en/0.9.15/catalogue_vehicles/" target="_blank">CARLA</a></small>
-</div>
+</div> -->
 
 ## Making Even More with Much Less: Improving Software Testing Outcomes Using a Cross-Project and Cross-Language ML Classifier Based on Cost-Sensitive Training on Class-Weighted Dataset
 

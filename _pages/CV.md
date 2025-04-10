@@ -83,7 +83,8 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 **Location:** São Paulo, Brazil  
 **Email:** **gabrielshimanuki** [at] {**usp** *or*  **hotmail**} [dot] **br** <br>
 **Website:** [https://gabrielshimanuki.github.io/](https://gabrielshimanuki.github.io/) <br>
-[PDF CV](/assets/pdf/SHIMANUKI_CV_FEB-25.pdf){: .btn .btn--success .no-margin}
+[PDF CV](/assets/pdf/SHIMANUKI_CV_APRIL-25.pdf){: .btn .btn--success .no-margin}
+<!-- [PDF CV](/assets/pdf/SHIMANUKI_CV_FEB-25.pdf){: .btn .btn--success .no-margin} -->
 <!-- [PDF CV](/assets/pdf/SHIMANUKI_CV_DEZ_24_no_p.pdf){: .btn .btn--success .no-margin} -->
 
 <!-- --- -->
@@ -161,6 +162,7 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 - **Nascimento, A., Garcia, W., Garcia, A., Queiroz, A., Garcia, E., Bandeira, F., Shimanuki, G., & Satin, L.** *(under editorial review)*. *Set of Mock Exams for the ENEM (Brazilian National High School Exam)*, 2nd edition.
 
 ### Peer-Reviewed Journal Publications  
+- **Shimanuki, G.; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025, April)** *CORTEX-AVD: A Framework for CORner Case Testing and EXploration in Autonomous Vehicle Development*. [10.48550/arXiv.2504.03989](https://arxiv.org/abs/2504.03989) - *Under Review*
 - **Shimanuki, G.; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P. (2025, February)** *Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety*. [10.48550/arXiv.2503.00077](https://doi.org/10.48550/arXiv.2503.00077) - *Under Review*
 - **Nascimento, A., Shimanuki, G., & Dias, L. (2024, July).** *Making More With Less: Improving Software Testing Outcomes Using a Cross-project and Cross-Language ML Classifier Based on Cost-Sensitive Training*. [10.3390/app14114880](https://doi.org/10.3390/app14114880).
 
@@ -171,7 +173,7 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 ### Working Papers  
 - Access all working papers [here](https://gabrielshimanuki.github.io/_pages/working-papers/).  
 <!-- - **Shimanuki, G., Nascimento, A., Vismari, L., & Cugnasca, P. (2025).** *Automating Corner Case Generation in Traffic Scenarios: A Systematic Literature Review.*   -->
-- **Shimanuki, G., Nascimento, A., Vismari, L., & Cugnasca, P. (2023a).** *Genetic Algorithm-Driven Corner Case Generation: Advancing Simulation for Safer Autonomous Vehicle Systems.*
+<!-- - **Shimanuki, G., Nascimento, A., Vismari, L., & Cugnasca, P. (2023a).** *Genetic Algorithm-Driven Corner Case Generation: Advancing Simulation for Safer Autonomous Vehicle Systems.* -->
 
 <!-- --- -->
 

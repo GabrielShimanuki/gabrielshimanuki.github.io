@@ -83,7 +83,8 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 **Location:** São Paulo, Brazil  
 **Email:** **gabrielshimanuki** [at] {**usp** *or*  **hotmail**} [dot] **br** <br>
 **Website:** [https://gabrielshimanuki.github.io/](https://gabrielshimanuki.github.io/) <br>
-[PDF CV](/assets/pdf/SHIMANUKI_CV_APRIL-25.pdf){: .btn .btn--success .no-margin}
+[PDF CV](/assets/pdf/SHIMANUKI_CV_JUN-25.pdf){: .btn .btn--success .no-margin}
+<!-- [PDF CV](/assets/pdf/SHIMANUKI_CV_APRIL-25.pdf){: .btn .btn--success .no-margin} -->
 <!-- [PDF CV](/assets/pdf/SHIMANUKI_CV_FEB-25.pdf){: .btn .btn--success .no-margin} -->
 <!-- [PDF CV](/assets/pdf/SHIMANUKI_CV_DEZ_24_no_p.pdf){: .btn .btn--success .no-margin} -->
 
@@ -94,7 +95,7 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 **Leading university in Latin America (#92 QS World University Ranking)**  
 
 - **M.Sc. Student in Electrical & Computer Engineering, Polytechnic School of USP**  
-  *Jan 2024 – July 2025*  
+  *Jan 2024 – Dec 2025*  
   - Advisor: Prof. Paulo Sérgio Cugnasca / Co-Advisor: Dr. Alexandre Moreira Nascimento  
   - GPA: 4.0/4.0  
   - Qualifying Exam: *Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment*
@@ -177,7 +178,11 @@ _**M.Sc. student** at University of Sao Paulo's Safety Analysis Group_ <br>
 
 <!-- --- -->
 
+## Offers of Admission
+- **Admission to the M.S. in Electrical Engineering - New York University (NYU), Tandon School of Engineering** - Apr 2025
+
 ## Awards & Honors  
+- **Selected Participant – AI4Industry 2025 Summer School on AI Technologies for Industry 4.0** - École des Mines de Saint-Étienne, France - *Fully funded participation* - July 2025
 - **Nomination for Top Senior Projects in Computer Engineering Department** - Dec 2023  
 - **Best Project - Digital Systems Laboratory II** - Dec 2021  
 

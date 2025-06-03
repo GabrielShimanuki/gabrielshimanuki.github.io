@@ -151,6 +151,30 @@ a[href="/feed.xml"] {
   </ul>
 </div>
 
+## Offers of Admission
+<div class="justify-text">
+  <ul>
+    <li>
+      <strong>Admission to the M.S. in Electrical Engineering - New York University (NYU), Tandon School of Engineering</strong>
+    </li>
+  </ul>
+</div>
+
+## Honors
+<div class="justify-text">
+  <ul>
+    <li>
+      <strong>Selected Participant – AI4Industry 2025 Summer School on AI Technologies for Industry 4.0</strong> - École des Mines de Saint-Étienne, France - Fully funded participation
+    </li>
+    <li>
+      <strong>Nomination for Best Final Paper of the Computer Engineering Poli - USP 2023</strong>
+    </li>
+    <li>
+      <strong>Best Project - Digital Systems Laboratory II</strong> - Implemented a Bayesian filtering algorithm on FPGA to enhance low-cost sensor reliability
+    </li>
+  </ul>
+</div>
+
 ## Grants
 <div class="justify-text">
   <ul>
@@ -172,14 +196,3 @@ a[href="/feed.xml"] {
   </ul>
 </div>
 
-## Honors
-<div class="justify-text">
-  <ul>
-    <li>
-      <strong>Nomination for Best Final Paper of the Computer Engineering Poli - USP 2023</strong>
-    </li>
-    <li>
-      <strong>Best Project - Digital Systems Laboratory II</strong> - Implemented a Bayesian filtering algorithm on FPGA to enhance low-cost sensor reliability
-    </li>
-  </ul>
-</div>

@@ -151,6 +151,18 @@ a[href="/feed.xml"] {
   </ul>
 </div>
 
+## Professional Service Activity
+<div class="justify-text">
+  <ul>
+      <strong>Journal Reviewer</strong>
+  </ul>
+  <ul>
+    <li>
+      <strong>IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)</strong>
+    </li>
+  </ul>
+</div>
+
 ## Offers of Admission
 <div class="justify-text">
   <ul>

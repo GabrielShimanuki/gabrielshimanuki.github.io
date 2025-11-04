@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 ---
 
-## About Me 
+<!-- ## About Me  -->
 
 I am a Master’s student in Electrical and Computer Engineering at the [Polytechnic School](https://www-poli-usp-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp) of the [University of São Paulo](https://www5.usp.br/english/institutional/), ranked as the leading university in Latin America [#92 QS World University Ranking](https://www.topuniversities.com/world-university-rankings?page=3). I conduct research within the Safety Analysis Group under the supervision of Prof. Paulo Sérgio Cugnasca and Dr. Alexandre Moreira Nascimento. My work focuses on enhancing the safety and optimization of autonomous systems, with the aim of creating reliable technologies capable of making safe decisions under uncertainty. My long-term goal is to accelerate the adoption of autonomous systems, including robotics and autonomous vehicles, and extend their societal benefits globally, particularly in developing regions.
 

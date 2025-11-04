@@ -11,14 +11,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "Gabriel Kenji G. Shimanuki"
 title_separator          : "-"
-subtitle                 : "A Jekyll theme"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
+subtitle                 : "Personal Webpage"
+name                     : &name "Gabriel Kenji G. Shimanuki" # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 # url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://gabrielshimanuki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
+# baseurl                  : "/_pages" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "GabrielShimanuki/gabrielshimanuki.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -81,12 +82,35 @@ facebook:
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-  #  - "https://twitter.com/mmistakes"
-  #  - "https://www.facebook.com/michaelrose"
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:gabrielshimanuki@usp.br"
+
+#     # Este bloco é para o ResearchGate
+#     - label: "ResearchGate"
+#       icon: "fab fa-fw fa-researchgate" # Ícone do ResearchGate
+#       url: "https://www.researchgate.net/profile/Gabriel-Shimanuki"
+      
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin-in"
+#       url: "https://www.linkedin.com/in/gabriel-kenji/"
+
+#     # Este bloco é para o Google Scholar
+#     - label: "Google Scholar"
+#       icon: "fas fa-fw fa-graduation-cap" # Ícone de acadêmico
+#       url: "https://scholar.google.com/citations?user=MOxom4UAAAAJ"
+      
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/GabrielShimanuki"
+      
+#     - label: "ORCID"
+#       icon: "fab fa-fw fa-orcid"
+#       url: "https://orcid.org/0000-0002-5412-8_910"
 
 # Analytics
 analytics:
@@ -99,22 +123,35 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : #"/assets/images/michael-rose.jpg"
-  bio              : "Researcher."
+  avatar           : "/assets/images/GABRIEL-BIO.JPG"
+  bio              : "M.Sc. student @ USP | Safety Analysis Group | AV & AI Researcher"
   location         : "Sao Paulo, BR"
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabrielshimanuki@usp.br"
+
+    # Este bloco é para o ResearchGate
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate" # Ícone do ResearchGate
+      url: "https://www.researchgate.net/profile/Gabriel-Shimanuki"
+      
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/gabriel-kenji/"
+
+    # Este bloco é para o Google Scholar
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap" # Ícone de acadêmico
+      url: "https://scholar.google.com/citations?user=MOxom4UAAAAJ"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/GabrielShimanuki"
+      
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-5412-8_910"
 
 
 # Site Footer
@@ -209,7 +246,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
       author_profile: true
       read_time: true
       comments: true
@@ -220,7 +257,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
+      layout: wide
       author_profile: true
   # _docs
   - scope:

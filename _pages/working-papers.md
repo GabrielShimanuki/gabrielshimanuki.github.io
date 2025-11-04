@@ -1,78 +1,12 @@
 ---
 layout: single
+classes: "wide"
 author_profile: true
 toc: false
 toc_label: "Contents"
 toc_icon: "cog"
 # last_modified_at: 2024-12-03
 ---
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 17px;
-  }
-
-.author__avatar{
-    padding-left:10%;
-    padding-right:10%;
-}
-
-.author__name{
-    /* margin-bottom: 20px; Adjust space after name */
-    text-align: center;
-}
-
-.author__content{
-    text-align: center;
-
-}
-
-.author__avatar img{
-    max-width:100%;
-}
-
-.author__urls{
-    padding-left: 15%;
-}
-
-.page__content p {
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-}
-
-.page{
-    padding-right: 0%;
-    font-size: 15px;
-}
-
-strong {
-    color: #616161;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
-.fa-rss {
-  display: none;
-}
-
-.footer .fa-rss {
-  display: none !important;
-}
-
-a[href="/feed.xml"] {
-  display: none;
-}
-
-.small-image {
-  width: 250px; /* Adjust the size as needed */
-  height: auto; /* Maintain aspect ratio */
-  float: left; /* Align to the left */
-  margin-right: 1rem; /* Add spacing between image and text */
-}
-
-</style>
 
 
 <!-- ## Adaptive Bayesian Filtering in Action -->
@@ -118,6 +52,7 @@ This project aims to advance the safety of autonomous vehicles (AVs) by developi
 TBD
 </div>
 
-<div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;">
+<!-- <div style="display: flex; gap: 1rem; margin-top: -55px; margin-bottom: -40px;"> -->
+<div class="flex-container-basic" style="margin-top: -55px; margin-bottom: -40px;">
 <small>Image source: <a href="https://initialcommit.com/blog/how-to-be-a-software-developer" target="_blank">Blog</a></small>
 </div>

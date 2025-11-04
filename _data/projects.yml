@@ -1,0 +1,54 @@
+# _data/projects.yml
+
+- title: "CORTEX-AVD: AI-Driven Corner Case Exploitation"
+  image: "/assets/images/projects/cortex/CORTEX_thumbnail.gif" # Verifique se este é o caminho da imagem
+  tags: "Safety V&V, Exploitation, Autonomous Vehicles, CARLA, Scenic, Trustworthy AI"
+  description: "Led AI-driven methods to exploit high-risk driving scenarios for AV safety validation. This framework, CORTEX-AVD, led to methods that improved corner case exploitation by 23%."
+  papers:
+    - title: "Paper"
+      url: "https://doi.org/10.48550/arXiv.2504.03989" # (CORTEX-AVD)
+  # code: "https://github.com/..."
+
+- title: "Injecting Hallucinations: A Safety Framework for Autonomous Vehicles (Stanford Collaboration)"
+  image: "/assets/images/publications/real_hallucination_thumb.png" # Imagem do paper "Hallucinations"
+  tags: "Safety V&V, Fault Injection, Simulation, International Collaboration (Stanford)"
+  description: "As part of an <strong>international collaboration</strong> with Stanford University and University of Miami, developed the safety investigation framework for comprehensive fault injection experiments. Conducted over 110,000 simulation runs with 2,200 parameter variations, generating a 27.6M-line dataset for system reliability analysis."
+  papers:
+    - title: "Paper" 
+      url: "https://doi.org/10.48550/arXiv.2510.07749" # (Injecting Hallucinations)
+
+- title: "Efficient AI: ANN Optimization for Embedded Devices (TinyML)"
+  image: "/assets/images/projects/tinyml/seeeduino_thumb.jpg"
+  image_credit: "Seeed Studio XIAO nRF52840 Sense"
+  tags: "Efficient AI, TinyML, Genetic Algorithms, Hardware-in-the-Loop (HIL)"
+  description: "Designed a scalable framework to optimize small ANN training for for embedded IoT devices. <strong>Conducted over 7 million ANN training experiments</strong> to optimize performance using Genetic Algorithms and Hardware-in-the-Loop strategies (Arduino). This foundational work supported subsequent publications by the research team."
+  # webpage: "/_pages/projects/ann-optimization/"
+
+- title: "Bayesian Filtering on FPGA: Enhancing Sensor Reliability"
+  image: "/assets/images/projects/bayesian_filter/Payload_1_evolution.gif"
+  tags: "FPGA, VHDL, Bayesian Filtering, Hardware-in-the-Loop"
+  description: "<strong>Awarded 1st Place (Best Project).</strong> This project successfully implemented a theoretical Bayesian filter as a high-performance, real-time system on hardware. We engineered the solution in VHDL for an FPGA to process data from low-cost ultrasonic sensors (HC-SR04), achieving significant noise reduction and validating the paper's concepts in a physical implementation."
+  # Links
+  webpage: "/_pages/working_papers/adaptive-bayesian-filter/" # O seu link antigo de "Read More"
+  video: "https://www.youtube.com/watch?v=i8tTpq5AAro"
+
+
+- title: "AI-Driven Software Testing Optimization"
+  image: "/assets/images/projects/software_testing/debug_thumb.jpg"
+  image_credit: "Photo by Timothy Dykes on Unsplash"
+  tags: "Machine Learning, Software Testing, Cost-Sensitive Learning, Cross-Project Classification"
+  description: "This research line investigates efficient ML classifiers for software testing. Building on previous work, my contribution, <strong>'Making More with Less'</strong>, introduced cross-project, cross-language, and cost-sensitive training. This work is now being extended into a series of subsequent papers on optimizing software test outcomes."
+  papers:
+    - title: "Paper" 
+      url: "https://doi.org/10.3390/app14114880"
+
+- title: "ML Applications in Education: Student Dropout & Performance"
+  image: "/assets/images/projects/education/classroom_thumb.jpg" # Imagem de um dos papers
+  image_credit: "Photo by Nathan Cima on Unsplash"
+  tags: "Applied Machine Learning, Ed-Tech, Imbalanced Datasets"
+  description: "This research line applied ML to educational challenges. One paper introduced a novel ANN approach for imbalanced datasets to predict student dropout. The subsequent paper provided a comprehensive comparison of ML techniques and metrics for academic performance prediction."
+  papers:
+    - title: "Paper (2024)" 
+      url: "https://aisel.aisnet.org/isla2024/2"
+    - title: "Paper (2023)"
+      url: "https://aisel.aisnet.org/isla2023/15"

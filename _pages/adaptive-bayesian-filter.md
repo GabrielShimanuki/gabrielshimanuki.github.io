@@ -8,143 +8,6 @@ toc_icon: "cog"
 permalink: /_pages/working_papers/adaptive-bayesian-filter/
 ---
 
-<style type="text/css">
-
-body{ /* Normal  */
-      font-size: 17px;
-      text-align: justify;
-  }
-
-.author__avatar{
-    padding-left:10%;
-    padding-right:10%;
-}
-
-.author__name{
-    /* margin-bottom: 20px; Adjust space after name */
-    text-align: center;
-}
-
-.author__content{
-    text-align: center;
-
-}
-
-.author__avatar img{
-    max-width:100%;
-}
-
-.author__urls{
-    padding-left: 15%;
-}
-
-.page__content p {
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-}
-
-.page{
-    padding-right: 0%;
-    font-size: 15px;
-}
-
-strong {
-    color: #616161;
-}
-
-.justify-text {
-  text-align: justify;
-}
-
-.fa-rss {
-  display: none;
-}
-
-.footer .fa-rss {
-  display: none !important;
-}
-
-a[href="/feed.xml"] {
-  display: none;
-}
-
-.small-image {
-  width: 250px; /* Adjust the size as needed */
-  height: auto; /* Maintain aspect ratio */
-  float: left; /* Align to the left */
-  margin-right: 1rem; /* Add spacing between image and text */
-}
-
-/* Centralizando as figuras e ajustando o tamanho */
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 80%; /* Ajuste o tamanho da imagem */
-}
-
-figure {
-  text-align: center;
-}
-
-/* Correção de fórmulas */
-math, .math {
-  font-size: 1.2em;
-  text-align: center;
-}
-
-/* Ajustes específicos */
-.page__content p small {
-  font-size: 1em;
-}
-
-/* Centraliza as imagens e legendas */
-.figure-align-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 55%; /* Ajuste a largura máxima conforme necessário */
-}
-
-.figcaption {
-  text-align: center;
-  font-size: 1em;
-  color: #616161;
-  font-style: italic;
-  margin-top: 0.5em; /* Espaçamento acima da legenda */
-}
-
-.center-table {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-.center-table table {
-  width: auto; /* Adjusts the table width to its content */
-}
-
-.tabcaption {
-  text-align: left;
-  font-size: 1em;
-  color: #616161;
-  font-style: italic;
-  margin-top: 0.5em; /* Espaçamento acima da legenda */
-}
-
-.content table {
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-}
-
-.no-margin {
-  margin: 0 !important;
-}
-
-</style>
-
-
 ## Adaptive Bayesian Filter Implemented in FPGA for Performance Improvement of Low-Cost Sensors
 
 <u><em>Gabriel Shimanuki</em></u>, Rafael Yokowo, Alexandre Nascimento, Lúcio Vismari, Paulo Cugnasca  
@@ -152,11 +15,26 @@ math, .math {
 <strong>Abstract:</strong> Distance sensors are commonly used for obstacle detection and distance measurement, providing information for various applications such as collision prevention, object detection, and terrain mapping. However, they exhibit a wide range of quality and accuracy, with prices ranging from USD 0.55 to over USD 100 per unit. Choosing the lowest-priced sensors directly impacts the reliability of the measurements, as noise levels in the measured values can be significant. This project aims to present an adaptive Bayesian filter model as a **proof of concept** to improve the reliability of measurements from low-cost sensors.
 
 
-<div style="display: flex; gap: 1rem; margin-top: -40px; margin-bottom: -40px;">
+<!-- <div style="display: flex; gap: 1rem; margin-top: -40px; margin-bottom: -40px;">
 
 [Short Paper](/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR.pdf){: .btn .btn--success .no-margin} 
 [Technical Report](/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR-REPORT.pdf){: .btn .btn--info .no-margin} 
 
+</div> -->
+
+<!-- <div style="display: flex; gap: 0rem; margin-top: 0.2rem; margin-bottom: 0.2rem;"> -->
+
+<!-- [Short Paper](/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR.pdf){: .btn .btn--success .no-margin} 
+[Technical Report](/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR-REPORT.pdf){: .btn .btn--info .no-margin}  -->
+<!-- </div> -->
+
+<div style="margin-top: 1.5rem; margin-bottom: 2rem;">
+  <a href="/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR.pdf" class="btn btn--success no-margin" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-file-pdf"></i> Short Paper
+  </a> 
+  <a href="/assets/pdf/working-papers/fpga/FPGA-LOW-SENSOR-REPORT.pdf" class="btn btn--info no-margin" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-book"></i> Technical Report
+  </a>
 </div>
 
 ## Introduction
@@ -213,26 +91,41 @@ The circuit is capable of performing distance measurements from the ultrasonic s
 Through the proposed solution, it was possible to obtain very satisfactory results, achieving different operational conditions of the filter in which the adaptation to the environment is variable. Three distinct filtering tests will be presented. Figures 2 and 3 show tests with fixed parameters. In Figure 4, the filtering performed is the result of the automatic adaptation of the circuit, as shown in Table 2.
 
 - **Case 1**: Variance comparison with fixed parameters:  
-   - Measured Variance: 926.11 mm²  
-   - Estimated Variance: 780.54 mm²  
+   - Measured Variance: 926.11 mm<sup>2
+   - Estimated Variance: 780.54 mm<sup>2
 
     ![Test 1](/assets/images/FPGA/test_1.png){: .figure-align-center }
     <div class="figcaption">
     Figure 2: Output Comparison for the Circuit with filter and without filter.
     </div>
 
+    ![Test 1](/assets/images/projects/bayesian_filter/Payload_1_evolution.gif){: .figure-align-center }
+    <div class="figcaption">
+    GIF 1: Output Comparison for the Circuit with filter and without filter.
+    </div>
+
 - **Case 2**:  
-   - Measured Variance: 732.69 mm²  
-   - Estimated Variance: 713.32 mm²  
+   - Measured Variance: 732.69 mm<sup>2
+   - Estimated Variance: 713.32 mm<sup>2
 
     ![Test 2](/assets/images/FPGA/test_2.png){: width="450px" }
     <div class="figcaption">
     Figure 3: Output Comparison for the Circuit with filter and without filter.
     </div>
+
+    ![Test 2](/assets/images/projects/bayesian_filter/Payload_2_evolution.gif){: width="450px" }
+    <div class="figcaption">
+    GIF 2: Output Comparison for the Circuit with filter and without filter.
+    </div>
     
     ![Adaptative Circuit](/assets/images/FPGA/image_adaptation.png){: width="450px" }
     <div class="figcaption">
     Figure 4: Output Comparison for the Circuit with filter and without filter - Adaptive Circuit.
+    </div>
+    
+    ![Adaptative Circuit](/assets/images/projects/bayesian_filter/Payload_3_evolution.gif){: width="450px" }
+    <div class="figcaption">
+    GIF 3: Output Comparison for the Circuit with filter and without filter - Adaptive Circuit.
     </div>
 
 Thus, the following variances were obtained, where the *real variance* represents the measurements from the standard circuit and the *estimated variance* represents the measurements from the circuit with the filter applied.
@@ -240,15 +133,15 @@ Thus, the following variances were obtained, where the *real variance* represent
 
 ### Adaptive Filtering  
 The adaptive model improved noise filtering:  
-- Measured Variance: 926.11 mm²  
-- Estimated Variance: **694.80 mm²**
+- Measured Variance: 926.11 mm<sup>2
+- Estimated Variance: <strong>694.80 mm<sup>2</sup></strong>
 
 
 | **Case**         | **Measured Variance** | **Estimated Variance** |
-|:----------------:|:--------------------:|:----------------------:|
-| Case 1 (Fixed)  | 926.11 mm²           | 780.54 mm²            |
-| Case 2 (Fixed)  | 732.69 mm²           | 713.32 mm²            |
-| Adaptive Case    | 926.11 mm²           | **694.80 mm²**        |
+|:----------------:|:--------------------:|:-----------------------:|
+| Case 1 (Fixed)  | 926.11 mm<sup>2          | 780.54 mm<sup>2      |
+| Case 2 (Fixed)  | 732.69 mm<sup>2          | 713.32 mm<sup>2      |
+| Adaptive Case   | 926.11 mm<sup>2          | <strong>694.80 mm<sup>2</sup></strong>  |
 
 
 <div class="tabcaption">

@@ -1,0 +1,55 @@
+{% for proj in site.data.projects %}
+  <div class="pub-item" markdown="0"> 
+    
+    <div class="pub-image">
+      {% if proj.image %}
+        <img src="{{ proj.image | relative_url }}" alt="Thumbnail for {{ proj.title }}" 
+            {% if proj.image_credit %} title="{{ proj.image_credit | escape }}" {% endif %} >
+      {% else %}
+        <img src="/assets/images/default-pub.png" alt="Default thumbnail">
+      {% endif %}
+    </div>
+
+    <div class="pub-data">
+      
+      <strong class="pub-title-text">{{ proj.title }}</strong>
+      
+      {% if proj.tags %}
+        <p class="project-tags"><strong>Keywords:</strong> <em>{{ proj.tags }}</em></p>
+      {% endif %}
+      
+      {% if proj.description %}
+        <p class="pub-description">{{ proj.description }}</p>
+      {% endif %}
+      
+      <div class="pub-links-text">
+        {% if proj.papers %}
+          {% for paper in proj.papers %}
+            <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-file-pdf"></i> {{ paper.title }}
+            </a>
+          {% endfor %}
+        {% endif %}
+        
+        {% if proj.code %}
+          <a href="{{ proj.code }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-github"></i> Code
+          </a>
+        {% endif %}
+        
+        {% if proj.webpage %}
+          <a href="{{ proj.webpage | relative_url }}">
+            <i class="fas fa-external-link-alt"></i> Read More
+          </a>
+        {% endif %}
+
+        {% if proj.video %}
+          <a href="{{ proj.video }}" target="_blank" rel="noopener noreferrer">
+            <!-- <i class="fab fa-youtube"></i> Video -->
+            <i class="fas fa-play-circle"></i> Video
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endfor %}

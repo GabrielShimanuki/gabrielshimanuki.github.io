@@ -1,0 +1,126 @@
+# _data/publications.yml
+# Este é o seu novo banco de dados de publicações.
+# Para adicionar novas, basta copiar o formato de um item.
+
+- title: "Injecting Hallucinations in Autonomous Vehicles: A Component-Agnostic Safety Evaluation Framework"
+  authors: "Nascimento, A.; <strong>Shimanuki, G.</strong>; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P.; Queiroz, A.; Bailenson, J."
+  year: 2025
+  venue: "arXiv"
+  type: "Preprint"
+  link: "https://doi.org/10.48550/arXiv.2510.07749"
+  status: "Under Review"
+  image: "/assets/images/publications/real_hallucination_thumb.png"
+  description: "We introduce a new safety framework that finds critical autonomous vehicle weaknesses by making the system 'hallucinate' fake sensor data."
+
+- title: "CORTEX-AVD: A Framework for CORner Case Testing and EXploration in Autonomous Vehicle Development"
+  authors: "<strong>Shimanuki, G.</strong>; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P."
+  year: 2025
+  venue: "arXiv"
+  type: "Preprint"
+  link: "https://doi.org/10.48550/arXiv.2504.03989"
+  status: "Under Review"
+  image: "/assets/images/publications/cortex_boxplot_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "We introduce CORTEX-AVD, an open-source framework that uses Genetic Algorithms to automatically exploit corner cases for AVs from simple text descriptions."
+
+- title: "Navigating the Edge with the State-of-the-Art Insights into Corner Case Identification and Generation for Enhanced Autonomous Vehicle Safety"
+  authors: "<strong>Shimanuki, G.</strong>; Nascimento, A.; Vismari, L.; Camargo Jr., J.; Almeida Jr., J.; Cugnasca, P."
+  year: 2025
+  venue: "arXiv"
+  type: "Preprint"
+  link: "https://doi.org/10.48550/arXiv.2503.00077"
+  status: "Under Review"
+  image: "/assets/images/publications/SLR_boolean-old-v2.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "This systematic literature review maps 110 selected studies on Autonomous Vehicle corner case generation to identify the current state-of-the-art, key research gaps, and future directions."
+
+- title: "Automatic Generation of Critical Scenarios for Evaluating Intelligent Control of Autonomous Vehicles in a Simulated Environment"
+  authors: "<strong>Shimanuki, G.</strong>"
+  year: 2024
+  venue: "Monograph for Qualifying Exam – M.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP)"
+  type: "Monograph"
+  image: "/assets/images/publications/poli_usp_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: ""
+
+- title: "Enhancing Academic Performance Prediction: A Comprehensive Comparison of Machine Learning Techniques and Metrics"
+  authors: "<strong>Shimanuki, Gabriel</strong>; Nascimento, Alexandre; and Queiroz, Anna C. M."
+  year: 2024
+  venue: "ISLA 2024 Proceedings. 2."
+  type: "Conference"
+  link: "https://aisel.aisnet.org/isla2024/2"
+  image: "/assets/images/publications/enhancing_academic_prdiction_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "This study compares ten machine learning models and various metrics to find the most accurate and reliable methods for predicting student academic performance."
+
+- title: "Making More with Less: Improving Software Testing Outcomes Using a Cross-Project and Cross-Language ML Classifier Based on Cost-Sensitive Training"
+  authors: "Nascimento, A. M., <strong>Shimanuki, G. K. G.</strong>, & Dias, L. A. V."
+  year: 2024
+  venue: "Applied Sciences, 14(11), 4880"
+  type: "Journal"
+  link: "https://doi.org/10.3390/app14114880"
+  image: "/assets/images/publications/making_more_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "We introduce a cost-sensitive, cross-project, and cross-language ML classifier that improves software testing outcomes even with limited resources."
+
+- title: "Increasing the Reliability of Autonomous Vehicle Controls Through the Creation of more Robust Traffic Datasets"
+  authors: "<strong>Shimanuki, G.</strong>"
+  year: 2023
+  venue: "Monograph for Senior Thesis Project – B.Sc. in Computer Engineering, Escola Politécnica da Universidade de São Paulo (Poli-USP)"
+  type: "Monograph"
+  image: "/assets/images/publications/poli_usp_thumb.png" # TROCAR IMAGEM
+  poster: "/assets/pdf/posters/C16-Poster.pdf" # Opcional
+  description: ""
+
+- title: "An Enhanced Artificial Neural Network Approach To Predict Student Dropout From Imbalanced Datasets"
+  authors: "Nascimento, Alexandre; Queiroz, Anna C. M.; and <strong>Godoy Shimanuki, Gabriel Kenji</strong>"
+  year: 2023
+  venue: "ISLA 2023 Proceedings. 15."
+  type: "Conference"
+  link: "https://aisel.aisnet.org/isla2023/15"
+  image: "/assets/images/publications/enhanced_ann_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "We propose an enhanced Artificial Neural Network approach to more accurately predict student dropout, even when working with highly imbalanced datasets."
+
+- title: "Analysis of the Influence of the Safety Zone on the Effectiveness of the Lateral Control Algorithm for Lane Change in Autonomous Vehicles"
+  authors: "<strong>Shimanuki, G.</strong>"
+  year: 2022
+  venue: "30th University of São Paulo's International Symposium of Undergraduate Research"
+  type: "Symposium"
+  link: "/assets/pdf/siicusp/SIICUSP-2022.pdf"
+  notes: "Originally presented in Portuguese. Short Paper."
+  image: "/assets/images/publications/siicusp_30_thumb.png" # TROCAR IMAGEM
+  poster: "/assets/pdf/posters/Poster_SIICUSP_2022.pdf" # Opcional
+  description: "This study uses an AV simulator (OpenDS) to analyze how adding a virtual 'Safety Zone' to a control algorithm improves vehicle safety during lane conversions."
+
+- title: "Analysis of the Influence of the Safety Zone on the Effectiveness of the Lane Crossing Control Algorithm for Autonomous Vehicles"
+  authors: "<strong>Shimanuki, G.</strong>"
+  year: 2021
+  venue: "29th University of São Paulo's International Symposium of Undergraduate Research"
+  type: "Symposium"
+  link: "/assets/pdf/siicusp/SIICUSP-2021.pdf"
+  notes: "Originally presented in Portuguese. Short Paper."
+  image: "/assets/images/publications/siicusp_29_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "This simulation study analyzes two 'Safety Zone' strategies, showing that applying the virtual safety buffer to all vehicles (not just the AV) is more effective for safe lane crossing."
+
+- title: "Influence of the Safety Zone on Accident Risk with Autonomous Vehicles"
+  authors: "<strong>Shimanuki, G.</strong>"
+  year: 2020
+  venue: "28th University of São Paulo's International Symposium of Undergraduate Research"
+  type: "Symposium"
+  link: "/assets/pdf/siicusp/SIICUSP-2020.pdf"
+  notes: "Originally presented in Portuguese. Short Paper."
+  image: "/assets/images/publications/siicusp_28_thumb.png" # TROCAR IMAGEM
+  # website: "" # Opcional
+  description: "We use a simulation environment to assess how the size of an AV's virtual 'Safety Zone' impacts collision risk during a lane crossing."
+
+- title: "Set of Mock Exams for the ENEM (Brazilian National High School Exam), 1st edition"
+  authors: "Nascimento, A., Garcia, W., Garcia, A., Queiroz, A., Garcia, E., Bandeira, F., <strong>Shimanuki, G.</strong>, & Satin, L."
+  year: 2023
+  venue: "Editora Foco. ISBN: 978-6-55515-820-5"
+  type: "Book"
+  image: "/assets/images/publications/set_of_mock_tests_thumb.png" # TROCAR IMAGEM
+  notes: "Originally printed in Portuguese"
+  website: "https://www.google.com.br/books/edition/Bateria_de_simulados_para_o_ENEM_1a_Ed_2/_sXJEAAAQBAJ" # Opcional
+  description: "This book provides 5 complete, official ENEM exams with deeply-commented answers and performance tracking tools to help students master test-taking strategies."

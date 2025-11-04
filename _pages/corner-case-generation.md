@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: "wide"
 author_profile: true
 toc: false
 toc_label: "Contents"
@@ -8,7 +9,7 @@ toc_icon: "cog"
 permalink: /_pages/working_papers/corner-case-generation/
 ---
 
-<style type="text/css">
+<!-- <style type="text/css">
 
 body{ /* Normal  */
       font-size: 17px;
@@ -142,7 +143,7 @@ math, .math {
   margin: 0 !important;
 }
 
-</style>
+</style> -->
 
 ## Automated Generation of Corner Case Scenarios for Enhancing Autonomous Vehicle Safety
 

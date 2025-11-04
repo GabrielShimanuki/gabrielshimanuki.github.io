@@ -1,0 +1,66 @@
+{% for pub in site.data.publications %}
+  <div class="pub-item" markdown="0">
+    
+    <div class="pub-image">
+      {% if pub.image %}
+        <img src="{{ pub.image | relative_url }}" alt="Thumbnail for {{ pub.title }}">
+      {% else %}
+        <img src="/assets/images/default-pub.png" alt="Default thumbnail">
+      {% endif %}
+    </div>
+
+    <div class="pub-data">
+      
+      <strong class="pub-title-text">{{ pub.title }}</strong>
+      
+      <p class="pub-authors">{{ pub.authors }}</p>
+      
+      <p class="pub-venue">
+        <em>{{ pub.venue }}</em>. {{ pub.year }}.
+        {% if pub.status %}
+           <strong>{{ pub.status }}</strong>
+        {% endif %}
+      </p>
+
+      <div class="pub-links-text">
+        {% if pub.link %}
+          <a href="{{ pub.link }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-pdf"></i> Paper
+          </a>
+        {% endif %}
+
+        {% if pub.poster %}
+          <a href="{{ pub.poster }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-alt"></i> Poster
+          </a>
+        {% endif %}
+        
+        {% if pub.code %}
+          <a href="{{ pub.code }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-github"></i> Code
+          </a>
+        {% endif %}
+        
+        {% if pub.website %}
+          <a href="{{ pub.website }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-external-link-alt"></i> Website
+          </a>
+        {% endif %}
+
+        {% if pub.video %}
+          <a href="{{ pub.video }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-play-circle"></i> Video
+          </a>
+        {% endif %}
+        </div>
+
+      {% if pub.description %}
+        <p class="pub-description">{{ pub.description }}</p>
+      {% endif %}
+
+      {% if pub.notes %}
+        <p class="pub-notes"><em>({{ pub.notes }})</em></p>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}

@@ -19,7 +19,7 @@ description              : "Gabriel Kenji G. Shimanuki description..."
 url                      : "https://gabrielshimanuki.github.io"
 baseurl                  : "" 
 repository               : "GabrielShimanuki/gabrielshimanuki.github.io"
-teaser                   : "/assets/images/GS_profile_crop_2023.JPEG" 
+teaser                   : "/assets/images/GABRIEL-BIO.JPG" 
 masthead_title           : "" 
 words_per_minute         : 200
 
@@ -34,19 +34,28 @@ twitter:
 social:
   type                   : Person
   name                   : Gabriel Kenji
-  links: 
+  links:
+    # Este bloco é para o ResearchGate
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate" # Ícone do ResearchGate
+      url: "https://www.researchgate.net/profile/Gabriel-Shimanuki"
+      
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gabriel-kenji/"
+
+    # Este bloco é para o Google Scholar
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap" # Ícone de acadêmico
+      url: "https://scholar.google.com/citations?user=MOxom4UAAAAJ"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielShimanuki"
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-graduation-cap"
-    #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
+      
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5412-8910"
+      url: "https://orcid.org/0000-0002-5412-8_910"
 
 # Analytics
 analytics:
@@ -55,24 +64,34 @@ analytics:
 # Site Footer
 footer:
   links:
+    # Este bloco é para o ResearchGate
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate" # Ícone do ResearchGate
+      url: "https://www.researchgate.net/profile/Gabriel-Shimanuki"
+      
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gabriel-kenji/"
+
+    # Este bloco é para o Google Scholar
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap" # Ícone de acadêmico
+      url: "https://scholar.google.com/citations?user=MOxom4UAAAAJ"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielShimanuki"
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-graduation-cap"
-    #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
+      
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5412-8910"
+      url: "https://orcid.org/0000-0002-5412-8_910"
 
 
 # Site Author
 author:
   name             : "Gabriel Kenji G. Shimanuki"
-  avatar           : "/assets/images/GS_profile_crop_2023.JPEG"
+  avatar           : "/assets/images/GABRIEL-BIO.JPG"
+  # bio              : "M.Sc. student @ USP | Safety Analysis Group | AV & AI Researcher"
   # bio              : "Researcher in Computer Engineering focusing on machine learning applied to autonomous vehicles safety - <strong>[USP](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
   # bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/> gabrielshimanuki [at] usp [dot] br"
   # bio              : "Researcher in Electrical/Computer Engineering, specializing in machine learning and simulation for enhancing autonomous vehicle safety - <strong>[Safety Analysis Group (GAS)](https://www2.pcs.usp.br/~gas/) at <strong>[University of Sao Paulo (USP)](https://www5.usp.br/#english)</strong> <br/>"
@@ -86,18 +105,27 @@ author:
 
   location         : "São Paulo, Brazil"
   links:
+    # Este bloco é para o ResearchGate
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate" # Ícone do ResearchGate
+      url: "https://www.researchgate.net/profile/Gabriel-Shimanuki"
+      
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/gabriel-kenji/"
+
+    # Este bloco é para o Google Scholar
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap" # Ícone de acadêmico
+      url: "https://scholar.google.com/citations?user=MOxom4UAAAAJ"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielShimanuki"
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-graduation-cap"
-    #   url: "https://scholar.google.com/citations?user=B647vnMAAAAJ&hl=en"
+      
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5412-8910"
+      url: "https://orcid.org/0000-0002-5412-8_910"
 
 # # Site Footer
 # footer:

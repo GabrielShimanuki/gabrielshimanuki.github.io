@@ -7,3 +7,5 @@
 @import "minimal-mistakes/vendor/breakpoint/breakpoint";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// @import "custom"; // <-- Esta é a linha que você está adicionando

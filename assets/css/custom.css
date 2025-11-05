@@ -12,19 +12,13 @@
 }
 
 .page__content h2 {
-    /* --- FONTE --- */
     font-size: 0.9rem;
-
-    /* --- ESPAÇAMENTO --- */
     margin-top: 0.1rem;
     margin-bottom: 0.2rem;
-
-    /* --- BÔNUS: Adiciona uma linha sutil abaixo do título --- */
     border-bottom: 1px solid #eee;
-    padding-bottom: 0.1rem; /* Espaço entre o texto e a linha */
+    padding-bottom: 0.1rem;
 }
 
-/* Regra para sub-títulos (ex: ### Meu Projeto) */
 .page__content h3 {
     font-size: 0.75rem;
     margin-top: 0.1rem;
@@ -105,64 +99,6 @@ strong {
   display: none !important;
 }
 
-/* .bibliography-title {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #444;
-}
-
-.small-image {
-    width: 300px;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.image-text-container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.fpga-image {
-    width: 40%;
-    height: auto;
-    margin-right: 20px;
-}
-
-.text-container {
-    width: 55%;
-}
-
-.flex-container-basic {
-    display: flex;
-    gap: 1rem;
-}
-
-.masthead {
-    padding-top: 0.1rem !important;
-    padding-bottom: 0.1rem !important;
-    min-height: 0 !important;
-}
-
-.site-title {
-    font-size: 1.0rem !important;
-    line-height: 1 !important;
-}
-
-.greedy-nav a,
-a.masthead__menu-item {
-    font-size: 18px !important;
-    line-height: 1 !important;
-    padding-top: 0.1rem !important;
-    padding-bottom: 0.1rem !important;
-    padding-left: 0.2rem !important;
-    padding-right: 0.2rem !important;
-} */
-
 /* --- 7. CORREÇÃO FINAL (HEADER E SIDEBAR) --- */
 .masthead {
     padding-top: 0.1rem !important;
@@ -199,14 +135,14 @@ a.masthead__menu-item {
 }
 
 /* ==========================================================================
-   ESTILOS DAS PUBLICAÇÕES
+   ESTILOS DAS PUBLICAÇÕES E PROJETOS (FONTES REDUZIDAS)
    ========================================================================== */
 
 .pub-item {
   display: flex;
-  flex-wrap: wrap; /* Permite quebrar em telas pequenas */
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
   border-bottom: 1px solid #f0f0f0;
 }
 
@@ -228,59 +164,85 @@ a.masthead__menu-item {
 }
 
 .pub-data {
-  flex: 1; /* Ocupa o resto do espaço */
-  min-width: 300px; /* Evita que o texto fique muito espremido */
+  flex: 1; 
+  min-width: 300px;
 }
 
-.pub-data .pub-title-link {
-  font-size: 1rem;
-  font-weight: bold;
-  color: #0056b3;
-  text-decoration: none;
-}
-.pub-data .pub-title-link:hover {
-  text-decoration: underline;
-}
-.pub-data .pub-title-nolink {
-  font-size: 1.15rem;
-  font-weight: bold;
+/* --- [CORREÇÃO DA FONTE] --- */
+.pub-title-text {
+  font-size: 0.8rem; /* Reduzido de 1.1rem */
+  font-weight: 600;
   color: #333;
+  line-height: 1.3;
+  display: block;
 }
-.pub-data p {
+
+/* --- [CORREÇÃO DA FONTE] --- */
+.pub-description {
+  font-size: 0.9rem; /* Reduzido de 0.95rem */
+  color: #444;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+/* --- [CORREÇÃO DA FONTE] --- */
+.pub-authors {
+  font-size: 0.9rem; /* Reduzido de 0.95rem */
+  color: #555;
   margin: 0.3rem 0;
   line-height: 1.45;
 }
-.pub-authors {
-  font-size: 0.95rem;
-  color: #555;
-}
+
+/* --- [CORREÇÃO DA FONTE] --- */
 .pub-venue {
-  font-size: 0.9rem;
-  color: #444;
+  font-size: 0.85rem; /* Reduzido de 0.9rem */
+  color: #777;
+  margin: 0.3rem 0;
+  font-style: italic;
 }
-.pub-status {
-  font-size: 0.9rem;
-  color: #c00;
+.pub-venue strong {
+  font-style: normal;
+  /* color: #c00; */
+  color: #777;
 }
+
 .pub-notes {
   font-size: 0.85rem;
   color: #777;
   font-style: italic;
+  margin-top: 1rem;
 }
 
-.pub-links {
-  margin-top: 0.75rem;
+/* --- [CORREÇÃO DA FONTE] --- */
+.project-tags {
+  font-size: 0.85rem; /* Reduzido de 0.9rem */
+  color: #777;
+  font-style: italic;
+  margin: 0.3rem 0;
 }
-.pub-links .btn {
-  margin-right: 0.5rem;
-  margin-bottom: 0.5rem;
+.project-tags strong {
+  font-style: normal;
+  color: #555;
 }
 
+.pub-links-text {
+  font-size: 0.7rem;
+  margin-top: 0.3rem;
+}
 .pub-links-text a {
-  /* Opcional: remove sublinhado no hover */
-  /* text-decoration: none;  */
-  color: #003d7a; /* Azul mais escuro */
+  font-weight: 600;
+  color: #0056b3;
+  text-decoration: underline;
+  margin-right: 0.75rem;
 }
+.pub-links-text a:hover {
+  text-decoration: none;
+  color: #003d7a;
+}
+
+/* ==========================================================================
+   ESTILOS DE RESPONSIVIDADE (A SOLUÇÃO DO CELULAR)
+   ========================================================================== */
 
 @media (max-width: 576px) {
   
@@ -294,136 +256,136 @@ a.masthead__menu-item {
     max-width: 200px;
     margin-right: 0;
     margin-bottom: 1rem;
-    margin-left: auto;  /* Centraliza */
-    margin-right: auto; /* Centraliza */
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .pub-item .pub-image img {
     width: 200px;
     max-width: 200px;
   }
-
-  /* 4. Garante que o texto ocupe a largura total */
+  
   .pub-data {
     min-width: 100%;
   }
 }
 
 /* ==========================================================================
-   ESTILOS DOS PROJETOS (Complemento do CSS de Publicações)
-   ========================================================================== */
-
-/* Estilo para as Keywords (ex: "Keywords: FPGA, VHDL...") */
-.project-tags {
-  font-size: 0.9rem;  /* um pouco menor */
-  color: #777;       /* cinza */
-  font-style: italic; /* itálico */
-  margin: 0.3rem 0;
-}
-.project-tags strong {
-  font-style: normal; /* "Keywords:" não fica em itálico */
-  color: #555;
-}
-
-.project-links {
-  margin-top: 0.75rem;
-}
-.project-links .btn {
-  margin-right: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.project-links-text a {
-  /* Opcional: remove sublinhado no hover */
-  /* text-decoration: none;  */
-  color: #003d7a; /* Azul mais escuro */
-}
-
-/* ==========================================================================
    ESTILOS DE "LIMPEZA" PARA A PÁGINA DO CV
    ========================================================================== */
 
-/* Usamos a classe .cv-page que adicionamos no front matter */
-
-/* Títulos da Seção (ex: ## Awards & Honors) */
 .cv-page .page__content h2 {
-  font-size: 1.2rem;     /* Fonte um pouco maior para hierarquia */
-  font-weight: 600;      /* Mais negrito */
+  font-size: 1.2rem;
+  font-weight: 600;
   color: #333;
-  margin-top: 2.5rem;    /* Mais "respiro" ANTES da seção */
-  margin-bottom: 1.25rem;/* Mais "respiro" DEPOIS do título */
-  border-bottom: 2px solid #eee; /* Linha de ênfase */
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 2px solid #eee;
   padding-bottom: 0.5rem;
 }
 
-/* O container da lista de bullet points */
 .cv-page .page__content ul {
-  padding-left: 20px; /* Alinha a indentação dos bullets */
-  list-style-type: square; /* (Opcional) Muda o bullet para um quadrado */
+  padding-left: 20px;
+  list-style-type: square;
 }
 
-/* Cada item da lista (ex: * AI4Industry...) */
 .cv-page .page__content li {
-  margin-bottom: 1.5rem; /* <-- MAIS "RESPIRO" ENTRE CADA ITEM */
-  line-height: 1.5; /* Mais espaço entre as linhas do item */
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
 }
 
-/* O bullet point da descrição (ex: * *Awarded...) */
 .cv-page .page__content li ul {
-  list-style-type: disc; /* Volta para o círculo */
+  list-style-type: disc;
   margin-top: 0.5rem;
 }
 
-/* O texto em itálico da descrição */
 .cv-page .page__content li em {
   font-size: 0.9rem;
   color: #555;
-  background-color: #f9f9f9; /* (Opcional) Um leve fundo */
+  background-color: #f9f9f9;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
 }
 
 .cv-page .page__content ul li a {
-  color: #0056b3; /* O seu "azul de link convencional" */
-  text-decoration: underline; /* O seu "sublinhado" */
-  font-weight: 600; /* (Opcional) Dá um leve destaque */
+  color: #0056b3; 
+  text-decoration: underline;
+  font-weight: 600;
 }
 .cv-page .page__content ul li a:hover {
-  color: #003d7a; /* Azul mais escuro */
-  /*text-decoration: none;  (Opcional) Remove o sublinhado no hover */
+  color: #003d7a;
+  text-decoration: none;
 }
 
 /* ==========================================================================
-   ESTILO DO TEMA (Rodapé)
+   ESTILOS DE "LIMPEZA" PARA A PÁGINA DO PROJETO (Bayesian)
    ========================================================================== */
 
-/* A classe que controla o rodapé (a barra inferior) */
-.page__footer {
-  /* Substitui o azul padrão pelo seu novo azul-marinho */
-  background-color: #004080; 
+.page__content figure {
+  text-align: center;
+  margin-bottom: 2rem;
 }
 
-/* .page__footer {
-  background-color: #004080; 
-} */
+.page__content figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
 
+.page__content figcaption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #616161;
+  font-style: italic;
+  margin-top: 0.5em; 
+}
 
-/* Regra Nº 1 (Específica) para o "Follow:" */
+.page__content .tabcaption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #616161;
+  font-style: italic;
+  margin-top: 0.5em;
+  margin-bottom: 2rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 1.5rem;
+}
+
+/* ==========================================================================
+   ESTILO DOS ÍCONES DE LINK (Publications & Projects)
+   ========================================================================== */
+
+.pub-links-text a i {
+  margin-right: 5px;
+}
+
+/* ==========================================================================
+   ESTILO DO TEMA (Rodapé) - [CORREÇÃO COM !important]
+   ========================================================================== */
+
+.page__footer {
+  background-color: #004080 !important; 
+}
+
 .page__footer .page__footer-follow .page__footer-follow-label {
-  color: #ffffff !important; /* BRANCO */
+  color: #ffffff !important;
 }
         
-/* Regra Nº 2 (Geral) se a Nº 1 falhar */
 .page__footer-follow-label {
-   color: #ffffff !important; /* BRANCO */
+   color: #ffffff !important;
 }
 
-/* Regra Nº 1 (Específica) para os ícones */
 .page__footer .social-icons a {
-  color: #ffffff !important; /* BRANCO */
+  color: #ffffff !important;
 }
 
-/* (Opcional) Faz os ícones ficarem um pouco mais claros no hover */
 .page__footer .social-icons a:hover {
-  color: #f0f0f0 !important; /* Um branco mais suave no hover */
+  color: #f0f0f0 !important;
 }

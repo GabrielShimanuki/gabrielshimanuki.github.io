@@ -21,7 +21,7 @@
   image: "/assets/images/projects/tinyml/seeeduino_thumb.jpg"
   image_credit: "Seeed Studio XIAO nRF52840 Sense"
   tags: "Efficient AI, TinyML, Genetic Algorithms, Hardware-in-the-Loop (HIL)"
-  description: "Designed a scalable framework to optimize small ANN training for for embedded IoT devices. <strong>Conducted over 7 million ANN training experiments</strong> to optimize performance using Genetic Algorithms and Hardware-in-the-Loop strategies (Arduino). This foundational work supported subsequent publications by the research team."
+  description: "This research project investigates scalable frameworks for optimizing ANNs on embedded IoT devices. My core contribution involved managing the experimental setup, <strong>conducting over 7 million ANN training experiments</strong> to optimize performance using Genetic Algorithms and Hardware-in-the-Loop (Arduino) strategies."
   # webpage: "/_pages/projects/ann-optimization/"
 
 - title: "Bayesian Filtering on FPGA: Enhancing Sensor Reliability"
